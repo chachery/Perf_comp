@@ -1,6 +1,8 @@
 # filter
 Scripts for filtering on reference databases.
 
+##运行命令
+
 输入以下命令即可对来自 NCBI Genbank 的目标类群（例如某个纲）的序列进行过滤
 ```
 python setup_filter.py <fasta_file> <taxon_file>
