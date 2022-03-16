@@ -27,7 +27,7 @@ BOLD_file 为目标类群在 BOLD 上的分类信息文件，获取方法为：
 python treatBOLD.py <input_tsv> <output>
 ```
 其中，input_tsv 为从BOLD下载的目标类群的tsv格式的分类信息表格文件，output为输出的 BOLD_file 文件名。
-该脚本运行时有时候会遇到乱码错误，这是分类信息表格文件中人名带有的特殊字符引起的，运行以下命令再获取 BOLD_file 即可：
+该脚本运行时可能会遇到乱码错误，这是分类信息表格文件中人名带有的特殊字符引起的，运行以下命令再获取 BOLD_file 即可：
 ```
 python rm_failDecode.py <input_tsv>
 ```
