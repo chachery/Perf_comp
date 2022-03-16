@@ -1,0 +1,2829 @@
+[class]	Arachnida
+[order]	Holothyrida
+[family]	Allothyridae
+[species]	Allothyrus sp. LamingtonNP-QMS95173
+[order]	Ixodida
+[family]	Argasidae
+[species]	Carios vespertilionis
+[species]	Ornithodoros compactus
+[species]	Otobius megnini
+[species]	Argas striatus
+[species]	Ornithodoros capensis
+[species]	Ornithodoros sp. 1 SWH-2019
+[species]	Argas sp. EXQ8
+[species]	Argas reflexus
+[species]	Ornithodoros zumpti
+[species]	Argas walkerae
+[species]	Ornithodoros moubata
+[species]	Carios faini
+[species]	Argas persicus
+[species]	Argas sp.
+[species]	Ornithodoros brasiliensis
+[species]	Ornithodoros asperus
+[species]	Argas miniatus
+[species]	Ornithodoros turicata
+[species]	Ornithodoros savignyi
+[species]	Antricola mexicanus
+[species]	Argas boueti
+[species]	Ornithodoros cf. yunkeri SML-2019
+[species]	Argas sp. SpringbokSA-QMS95171
+[species]	Ornithodoros porcinus
+[species]	Antricola sp. SH-2016
+[species]	Argas africolumbae
+[species]	Ornithodoros lahorensis
+[species]	Argas brumpti
+[species]	Ornithodoros canestrinii
+[species]	Nothoaspis amazoniensis
+[species]	Ornithodoros faccinii
+[species]	Argas lagenoplastis
+[species]	Ornithodoros costalis
+[species]	Ornithodoros rostratus
+[species]	Antricola marginatus
+[species]	Carios kelleyi
+[family]	Ixodidae
+[species]	Rhipicephalus microplus
+[species]	Rhipicephalus turanicus
+[species]	Rhipicephalus praetextatus
+[species]	Rhipicephalus pravus
+[species]	Rhipicephalus cf. zambeziensis EGK-2018
+[species]	Rhipicephalus evertsi
+[species]	Rhipicephalus appendiculatus
+[species]	Ixodes canisuga
+[species]	Hyalomma asiaticum
+[species]	Amblyomma mixtum
+[species]	Hyalomma sp. TK-1
+[species]	Ixodes sp.
+[species]	Ixodes scapularis
+[species]	Hyalomma lusitanicum
+[species]	Hyalomma marginatum
+[species]	Haemaphysalis japonica
+[species]	Rhipicephalus sanguineus
+[species]	Hyalomma anatolicum
+[species]	Haemaphysalis flava
+[species]	Haemaphysalis longicornis
+[species]	Ixodes ovatus
+[species]	Rhipicephalus geigyi
+[species]	Dermacentor nuttalli
+[species]	Dermacentor reticulatus
+[species]	Amblyomma tapirellum
+[species]	Amblyomma parvum
+[species]	Rhipicephalus annulatus
+[species]	Rhipicephalus sp. Ecto11_wd111e
+[species]	Ixodes holocyclus
+[species]	Ixodes ricinus
+[species]	Hyalomma truncatum
+[species]	Rhipicephalus punctatus
+[species]	Hyalomma dromedarii
+[species]	Rhipicephalus zambeziensis
+[species]	Hyalomma detritum
+[species]	Amblyomma triste
+[species]	Hyalomma excavatum
+[species]	Haemaphysalis sp. QZ-2020
+[species]	Amblyomma variegatum
+[species]	Ixodes sp. OA02
+[species]	Ixodes affinis
+[species]	Amblyomma calcaratum
+[species]	Ixodes hexagonus
+[species]	Ixodes persulcatus
+[species]	Haemaphysalis concinna
+[species]	Haemaphysalis bancrofti
+[species]	Haemaphysalis bispinosa
+[species]	Dermacentor albipictus
+[species]	Haemaphysalis sulcata
+[species]	Hyalomma isaaci
+[species]	Ixodes frontalis
+[species]	Dermacentor nitens
+[species]	Dermacentor auratus
+[species]	Haemaphysalis qinghaiensis
+[species]	Ixodes apronophorus
+[species]	Rhipicephalus bursa
+[species]	Rhipicephalus decoloratus
+[species]	Dermacentor silvarum
+[species]	Rhipicephalus congolensis
+[species]	Dermacentor variabilis
+[species]	Ixodes spinipalpis
+[species]	Bothriocroton sp.
+[species]	Ixodes granulatus
+[species]	Hyalomma nitidum
+[species]	Hyalomma rufipes
+[species]	Amblyomma tigrinum
+[species]	Amblyomma sculptum
+[species]	Ixodes uriae
+[species]	Amblyomma americanum
+[species]	Ixodes soricis
+[species]	Ixodes myrmecobii
+[species]	Hyalomma scupense
+[species]	Hyalomma turanicum
+[species]	Ixodes australiensis
+[species]	Amblyomma dissimile
+[species]	Ixodes trianguliceps
+[species]	Ixodes collaris
+[species]	Amblyomma sphenodonti
+[species]	Ixodes pavlovskyi
+[species]	Ixodes sp. KM2014a
+[species]	Amblyomma oblongoguttatum
+[species]	Amblyomma cajennense
+[species]	Amblyomma pacae
+[species]	Ixodes cornuatus
+[species]	Ixodes philipi
+[species]	Amblyomma limbatum
+[species]	Hyalomma aegyptium
+[species]	Amblyomma maculatum
+[species]	Haemaphysalis leporispalustris
+[species]	Rhipicephalus sp. KenT12
+[species]	Dermacentor marginatus
+[species]	Dermacentor sp. PG253
+[species]	Dermacentor sp. PG254
+[species]	Ixodes laguri
+[species]	Rhipicephalus australis
+[species]	Bothriocroton concolor
+[species]	Ixodes trichosuri
+[species]	Haemaphysalis lagostrophi
+[species]	Rhipicephalus sp.
+[species]	Amblyomma ovale
+[species]	Ixodes gregsoni
+[species]	Rhipicephalus haemaphysaloides
+[species]	Haemaphysalis sp.
+[species]	Hyalomma sp. SAEVG Morph0287
+[species]	Ixodes tasmani
+[species]	Bothriocroton undatum
+[species]	Amblyomma sp. ST2
+[species]	Amblyomma varium
+[species]	Bothriocroton hydrosauri
+[species]	Ixodes hirsti
+[species]	Rhipicephalus pulchellus
+[species]	Rhipicephalus sp. EGK-2018
+[species]	Ixodes fecialis
+[species]	Rhipicephalus complanatus
+[species]	Ixodes rugosus
+[species]	Ixodes boliviensis
+[species]	Dermacentor raskemensis
+[species]	Ixodes muris
+[species]	Dermacentor andersoni
+[species]	Dermacentor latus
+[species]	Hyalomma impeltatum
+[species]	Rhipicephalus kohlsi
+[species]	Haemaphysalis hystricis
+[species]	Amblyomma hebraeum
+[species]	Ixodes vespertilionis
+[species]	Haemaphysalis leachi
+[species]	Amblyomma longirostre
+[species]	Ixodes lividus
+[species]	Dermacentor everestianus
+[species]	Rhipicephalus pumilio
+[species]	Amblyomma geoemydae
+[species]	Haemaphysalis punctata
+[species]	Rhipicephalus leporis
+[species]	Amblyomma cohaerens
+[species]	Hyalomma punt
+[species]	Haemaphysalis sp. 2 LHL-2018
+[species]	Ixodes nipponensis
+[species]	Rhipicephalus sp. Ecto12_wd113d
+[species]	Ixodes ariadnae
+[species]	Ixodes simplex
+[species]	Haemaphysalis sp. 1 LHL-2018
+[species]	Amblyomma compressum
+[species]	Ixodes redikorzevi
+[species]	Haemaphysalis parva
+[species]	Haemaphysalis erinacei
+[species]	Haemaphysalis sp. microcebi
+[species]	Haemaphysalis muhsamae
+[species]	Ixodes banksi
+[species]	Amblyomma javanense
+[species]	Amblyomma exornatum
+[species]	Rhipicephalus rossicus
+[species]	Hyalomma rhipicephaloides
+[species]	Haemaphysalis humerosa
+[species]	Hyalomma sp. SC0144
+[species]	Ixodes victoriensis
+[species]	Amblyomma rotundatum
+[species]	Amblyomma transversale
+[species]	Ixodes texanus
+[species]	Amblyomma scutatum
+[species]	Hyalomma sp. SC0107
+[species]	Haemaphysalis inermis
+[species]	Amblyomma pecarium
+[species]	Haemaphysalis formosensis
+[species]	Rhipicephalus pusillus
+[species]	Haemaphysalis sp. genotype 1 TLG-2020
+[species]	Hyalomma somalicum
+[species]	Amblyomma nodosum
+[species]	Amblyomma elaphense
+[species]	Ixodes angustus
+[species]	Ixodes sp. Ecto15_B1727_B1603
+[species]	Amblyomma testudinarium
+[species]	Hyalomma albiparmatum
+[species]	Ixodes acutitarsus
+[species]	Ixodes ventalloi
+[species]	Ixodes pacificus
+[species]	Amblyomma naponense
+[species]	Nosomma monstrosum
+[species]	Hyalomma sp. 4661850
+[species]	Amblyomma geayi
+[species]	Amblyomma triguttatum
+[species]	Ixodes sp. Ecto14_B1663_1727
+[species]	Haemaphysalis sp. TK-3
+[species]	Haemaphysalis juxtakochi
+[species]	Hyalomma arabica
+[species]	Hyalomma impressum
+[species]	Hyalomma schulzei
+[species]	Amblyomma sabanerae
+[species]	Amblyomma fimbriatum
+[species]	Amblyomma integrum
+[species]	Ixodes marxi
+[species]	Amblyomma lepidum
+[species]	Haemaphysalis kopetdaghica
+[species]	Rhipicephalus sulcatus
+[species]	Ixodes arboricola
+[species]	Hyalomma glabrum
+[species]	Haemaphysalis chordeilis
+[species]	Hyalomma sp. SC0136
+[species]	Amblyomma sp.
+[species]	Rhipicephalus sp. ST3
+[species]	Dermacentor imitaos
+[species]	Ixodes pilosus
+[species]	Haemaphysalis sp. SAEVG Morph0155
+[species]	Haemaphysalis doenitzi
+[species]	Rhipicephalus sp. GH-2018
+[species]	Amblyomma sp. PG251
+[species]	Rhipicephalus compositus
+[species]	Ixodes bakeri
+[species]	Ixodes auritulus
+[species]	Ixodes turdus
+[species]	Rhipicephalus maculatus
+[species]	Dermacentor sp. F42P6
+[species]	Rhipicephalus simus
+[species]	Amblyomma sp. ST4
+[species]	Rhipicephalus glabroscutatus
+[species]	Aponomma fimbriatum
+[species]	Amblyomma auricularium
+[species]	Ixodes gibbosus
+[species]	Rhipicephalus sp. Ecto19_1880_1883_C
+[species]	Rhipicephalus cf. camicasi SC-2018
+[species]	Amblyomma sp. ADN A361
+[species]	Amblyomma eburneum
+[species]	Dermacentor sp. F39P6
+[species]	Dermacentor sinicus
+[species]	Ixodes monospinosus
+[species]	Ixodes cookei
+[species]	Ixodes rubicundus
+[species]	Ixodes brunneus
+[species]	Ixodes rugicollis
+[species]	Ixodes sp. 29b
+[species]	Dermacentor rhinocerinus
+[species]	Rhipicephalus sp. TK-4
+[species]	Dermacentor niveus
+[species]	Hyalomma sp. SC0117
+[species]	Amblyomma neumanni
+[species]	Amblyomma sp. ADN A375
+[species]	Haemaphysalis sp. T192
+[species]	Haemaphysalis sp. genotype 2 TLG-2020
+[species]	Rhipicephalus muhsamae
+[species]	Ixodes asanumai
+[species]	Hyalomma sp. SC0135
+[species]	Ixodes kingi
+[family]	Nuttalliellidae
+[species]	Nuttalliella namaqua
+[order]	Mesostigmata
+[family]	Ameroseiidae
+[species]	Ameroseius corbiculus
+[species]	Neocypholaelaps sp. JCS01
+[species]	Neocypholaelaps apicola
+[species]	Neocypholaelaps indica
+[species]	Ameroseius eumorphus
+[species]	Ameroseius macrochelae
+[species]	Kleemania sp. JCS01
+[species]	Ameroseius sp. JCS01
+[species]	Afrocypholaelaps sp. JCS01
+[family]	Arctacaridae
+[species]	Proarctacarus oregonensis
+[species]	Arctacarus sp. JCS01
+[family]	Ascidae
+[species]	Arctoseius sp. JCS08
+[species]	Arctoseius sp. JCS15
+[species]	Asca sp. JCS17
+[species]	Gamasellodes sp. JCS06
+[species]	Gamasellodes sp. JCS05
+[species]	Asca garmani
+[species]	Arctoseius sp. JCS26
+[species]	Arctoseius sp. JCS13
+[species]	Arctoseius taeniolatus
+[species]	Arctoseius sp. JCS25
+[species]	Asca sp. JCS11
+[species]	Asca sp. JCS09
+[species]	Asca sp. JCS15
+[species]	Gamasellodes sp. JCS07
+[species]	Iphidozercon sp. JCS04
+[species]	Asca sp. JCS01
+[species]	Iphidozercon altaicus
+[species]	Iphidozercon sp. JCS17
+[species]	Arctoseius sp. JCS28
+[species]	Asca sp. JCS08
+[species]	Arctoseius sp. JCS24
+[species]	Zerconopsis sp. JCS01
+[species]	Iphidozercon sp. JCS10
+[species]	Iphidozercon sp. JCS14
+[species]	Gamasellodes sp. JCS02
+[species]	Antennoseius avius
+[species]	Arctoseius sp. JCS12
+[species]	Zerconopsis decemremiger
+[species]	Iphidozercon gibbus
+[species]	Arctoseius sp. JCS14
+[species]	Antennoseius sp. JCS06
+[species]	Asca sp. JCS07
+[species]	Arctoseius confusus
+[species]	Arctoseius sp. JCS03
+[species]	Asca sp. JCS13
+[species]	Arctoseius sp. JCS10
+[species]	Arctoseius bilinear
+[species]	Antennoseius sp. JCS07
+[species]	Iphidozercon australis
+[species]	Asca brachychaeta
+[species]	Antennoseius janus
+[species]	Arctoseius cetratus
+[species]	Iphidozercon sp. JCS19
+[species]	Arctoseius sp. JCS21
+[species]	Arctoseius sp. JCS16
+[species]	Asca sp. JCS10
+[species]	Asca bicornis
+[species]	Leioseius minusculus
+[species]	Arctoseius sp. JCS20
+[species]	Arctoseius sp. JCS18
+[species]	Iphidozercon californicus
+[species]	Arctoseius sp. JCS30
+[species]	Asca sp. JCS12
+[species]	Arctoseius sp. JCS07
+[species]	Arctoseius sp. JCS19
+[species]	Iphidozercon sp. JCS18
+[species]	Arctoseius brevichelis
+[species]	Iphidozercon sp. JCS20
+[species]	Asca sp. JCS05
+[species]	Arctoseius sp. JCS17
+[species]	Iphidozercon sp. JCS12
+[species]	Iphidonopsis sp. JCS03
+[species]	Arctoseius sp. JCS29
+[species]	Iphidozercon sp. JCS16
+[species]	Arctoseius sp. JCS02
+[species]	Arctoseius semiscissus
+[species]	Iphidozercon sp. JCS13
+[species]	Iphidonopsis sp. JCS01
+[species]	Gamasellodes sp. JCS01
+[species]	Zerconopsis sp. JCS02
+[species]	Ascidae_JCS01 sp. JCS01
+[species]	Arctoseius sp. JCS11
+[species]	Antennoseius sp. JCS03
+[species]	Arctoseius sp. JCS23
+[species]	Iphidozercon sp. JCS03
+[species]	Antennoseius sp. JCS04
+[species]	Iphidozercon corticalis
+[species]	Iphidozercon sp. JCS15
+[species]	Arctoseius sp. JCS01
+[species]	Asca sp. JCS16
+[species]	Arctoseius kolymensis
+[species]	Asca sp. JCS06
+[species]	Arctoseius sp. JCS22
+[species]	Iphidonopsis sculptus
+[species]	New genus n. sp. 01
+[species]	Antennoseius boskopensis
+[species]	Asca sp. JCS04
+[family]	Blattisociidae
+[species]	Cheiroseius viduus
+[species]	Cheiroseius cascadensis
+[species]	Zercoseius n.sp. 1
+[species]	Cheiroseius sp. 42
+[species]	Cheiroseius sp. 20
+[species]	Lasioseius n.sp. 17
+[species]	Lasioseius sp. 15
+[species]	Platyseius n. sp. 1
+[species]	Cheiroseius bryophilus
+[species]	Blattisocius sp. JCS02
+[species]	Cheiroseius sp. 25
+[species]	Lasioseius sp. 22
+[species]	Lasioseius araucariae
+[species]	Lasioseius mirabilis
+[species]	Cheiroseius n.sp. 09
+[species]	Lasioseius sp. 01
+[species]	Cheiroseius n.sp. 07
+[species]	Hoploseius sp. 2
+[species]	Cheiroseius curtipes
+[species]	Cheiroseius sp. 34
+[species]	Arrhenoseius n. sp. 1
+[species]	Cheiroseius sp. 31
+[species]	Cheiroseius sp. 08
+[species]	Blattisocius n.sp. 4
+[species]	Lasioseius n. sp. 02
+[species]	Cheiroseius serratus
+[species]	Lasioseius sp. 19
+[species]	Cheiroseius n.sp. 01
+[species]	Cheiroseius sp. 14
+[species]	Lasioseius sp. 20
+[species]	Cheiroseius n.sp. JCS11
+[species]	Lasioseius zerconoides
+[species]	Cheiroseius sp. 16
+[species]	Lasioseius youcefi
+[species]	Cheiroseius browningi
+[species]	Lasioseius sp. 28
+[species]	Lasioseius n.sp. 09
+[species]	Blattisocius n.sp. 5
+[species]	Cheiroseius sp. 13
+[species]	Cheiroseius sp. 05
+[species]	Lasioseius sp. 26
+[species]	Blattisocius dentriticus
+[species]	Lasioseius tuberculiger
+[species]	Blattisocius n.sp. 3
+[species]	Lasioseius sp. 13
+[species]	Platyseius cooki
+[species]	Cheiroseius sp. 02
+[species]	Cheiroseius hurlbutti
+[species]	Platyseius n. sp. 3
+[species]	Lasioseius n.sp. 06
+[species]	Lasioseius n.sp. 02
+[species]	Lasioseius nasri
+[species]	Lasioseius sp. 07
+[species]	Blattisocius keegani
+[species]	Lasioseius jilinensis
+[species]	Lasioseius n.sp. 10
+[species]	Lasioseius sp. 06
+[species]	Cheiroseius sp. 18
+[species]	Cheiroseius sp. 22
+[species]	Cheiroseius alstoni
+[species]	Lasioseius sp. JCS30
+[species]	Cheiroseius pugiunculus
+[species]	Cheiroseius sp. 26
+[species]	Blattisocius sp. JCS01
+[species]	Lasioseius ometes
+[species]	Lasioseius n.sp. 01
+[species]	Lasioseius plumatus
+[species]	Lasioseius sp. 03
+[species]	Lasioseius n.sp. 12
+[species]	Cheiroseius n.sp. 03
+[species]	Lasioseius fimetorum
+[species]	Zercoseius n.sp.1
+[species]	Cheiroseius n.sp. 02
+[species]	Cheiroseius sp. 29
+[species]	Cheiroseius sp. 04
+[species]	Platyseius n. sp. 2
+[species]	Cheiroseius sp. 06
+[species]	Lasioseius n.sp. 04
+[species]	Cheiroseius sp. 17
+[species]	Hoploseius n.sp. 1
+[species]	Lasioseius sp. 18
+[species]	Cheiroseius sp. JCS47
+[species]	Lasioseius sp. 25
+[species]	Cheiroseius n.sp. 06
+[species]	Cheiroseius n.sp. 04
+[species]	Lasioseius formosus
+[species]	Cheiroseius sp. 19
+[species]	Cheiroseius tennessensis
+[species]	Arrhenoseius gloriosus
+[species]	Lasioseius sp. 16
+[species]	Cheiroseius sp. 28
+[species]	Cheiroseius capacoperitrematus
+[species]	Lasioseius n.sp. 11
+[species]	Lasioseius barbensiensis
+[species]	Lasioseius sp. 12
+[species]	Lasioseius sp. 14
+[species]	Cheiroseius sp. 46
+[species]	Cheiroseius borealis
+[species]	Lasioseius sp. 24
+[species]	Cheiroseius sp. 43
+[species]	Lasioseius sp. 10
+[species]	Platyseius n. sp. 4
+[species]	Cheiroseius sp. JCS48
+[species]	Cheiroseius sp. 01
+[species]	Cheiroseius parvipulmonis
+[species]	Lasioseius sp. 23
+[species]	Platyseius sp. 1
+[species]	Cheiroseius sp. 37
+[species]	Lasioseius sp. 09
+[species]	Cheiroseius ornatus
+[species]	Cheiroseius sp. JCS03
+[species]	Cheiroseius sp. 32
+[species]	Lasioseius n.sp. 07
+[species]	Cheiroseius sp. 36
+[species]	Cheiroseius sp. 40
+[species]	Lasioseius sp. 05
+[species]	Lasioseius sp. 17
+[species]	Platyseius n. sp. 5
+[species]	Lasioseius sp. 08
+[species]	Cheiroseius sp. 44
+[species]	Cheiroseius sp. 45
+[species]	Lasioseius sp. 29
+[species]	Lasioseius sp. 21
+[species]	Lasioseius n.sp. 05
+[family]	Dermanyssidae
+[species]	Dermanyssus gallinae
+[species]	Dermanyssus carpathicus
+[species]	Dermanyssus apodis
+[species]	Dermanyssus sp. JOW_P_1
+[species]	Dermanyssus sp. LC
+[species]	Dermanyssus hirundinis
+[species]	Dermanyssus longipes
+[species]	Dermanyssus sp. JOW_P_2
+[species]	Dermanyssus quintus
+[species]	Dermanyssus sp. CANIT
+[species]	Dermanyssus sp. LB18
+[species]	Dermanyssus sp. G058a LR-2008
+[species]	Dermanyssus sp. JOW_P_3
+[species]	Dermanyssus sp. G036 LR-2008
+[species]	Dermanyssus sp. JOW_P_4
+[species]	Dermanyssus sp. LB07-4
+[species]	Dermanyssus sp. COL
+[species]	Dermanyssus sp. LR-2017
+[species]	Dermanyssus sp. JGC
+[species]	Dermanyssus sp. GO54
+[species]	Dermanyssus hirsutus
+[species]	Dermanyssus sp. JBO51
+[species]	Dermanyssus sp. PI
+[species]	Dermanyssus sp. MAR
+[family]	Digamasellidae
+[species]	Cornodendrolaelaps presepum
+[species]	Dendrolaelaps reticulosus
+[species]	Cornodendrolaelaps longiscutatus
+[species]	Dendrolaelaps lobatus
+[family]	Discozerconidae
+[species]	Discozercon sp. AL5498
+[family]	Eviphididae
+[species]	Thinoseuis spinosus
+[species]	Eviphis ostrinus
+[family]	Heterozerconidae
+[species]	Narceoheterozercon ohioensis
+[family]	Laelapidae
+[species]	Echinonyssus sp. JCS03
+[species]	Androlaelaps sp. JCS01
+[species]	Cosmolaelaps sp. JCS05
+[species]	Laelaspis sp. JCS11
+[species]	Laelaps muricola
+[species]	Ololaelaps sp. JCS08
+[species]	Haemogamasus sp. JCS01
+[species]	Laelaps giganteus
+[species]	Dicrocheles sp. JCS01
+[species]	Echinonyssus sp. JCS01
+[species]	Gaeolaelaps aculeifer
+[species]	Stratiolaelaps scimitus
+[species]	Laelaspis sp. JCS03
+[species]	Tropilaelaps mercedesae
+[species]	Ololaelaps sp. JCS04
+[species]	Laelaps schatzi
+[species]	Ololaelaps sp. JCS01
+[species]	Tropilaelaps koenigerum
+[species]	Laelaspis sp. JCS12
+[species]	Stratiolaelaps marilyn
+[species]	Gaeolaelaps sp. JCS06
+[species]	Pneumolaelaps aequalipilus
+[species]	Tropilaelaps clareae
+[species]	Androlaelaps casalis
+[species]	Cosmolaelaps sp. JCS07
+[species]	Laelaspis sp. JCS04
+[species]	Cosmolaelaps cuneifer
+[species]	Laelaps kochi
+[species]	Laelaspis sp. JCS01
+[species]	Gaeolaelaps sp. JCS10
+[species]	Pneumolaelaps patae
+[species]	Gaeolaelaps sp. JCS15
+[species]	Dicrocheles sp. JCS02
+[species]	Gaeolaelaps sp. JCS05
+[species]	Laelaspis sp. JCS09
+[species]	Gymnolaelaps sp. JCS02
+[species]	Cosmolaelaps sp. JCS10
+[species]	Ololaelaps sp. JCS05
+[species]	Ololaelaps sp. JCS06
+[species]	Cosmolaelaps sp. JCS06
+[species]	Laelaspis sp. JCS02
+[species]	Tropilaelaps thaii
+[species]	Gaeolaelaps sp. JCS14
+[species]	Gaeolaelaps sp. JCS12
+[species]	Laelaspis sp. JCS07
+[species]	Gaeolaelaps sp. JCS07
+[species]	Laelaps taingueni
+[species]	Hypoaspisella lubrica
+[species]	Cosmolaelaps sp. JCS02
+[species]	Holostaspis flexuosa
+[species]	Gaeolaelaps sp. JCS03
+[species]	Cosmolaelaps sp. JCS03
+[species]	Laelaspis sp. JCS13
+[species]	Gaeolaelaps sp. JCS08
+[species]	Laelaspis sp. JCS08
+[species]	Gymnolaelaps sp. JCS03
+[species]	Gaeolaelaps sp. JCS04
+[species]	Echinonyssus sp. JCS02
+[species]	Laelaspis sp. JCS14
+[species]	Haemogamasus ambulans
+[species]	Myrmozercon yemeni
+[species]	Coleolaelaps sp. DEW-2003
+[species]	Pneumolaelapssp. JCS03
+[species]	Laelaspis sp. JCS05
+[species]	Cosmolaelaps sp. JCS01
+[species]	Gaeolaelaps pinnae
+[species]	Ololaelaps sp. JCS02
+[species]	Dicrocheles pelates
+[species]	Cosmolaelaps sp. JCS08
+[species]	Echinonyssus isabellinus
+[species]	Gymnolaelaps sp. JCS01
+[species]	Ololaelaps sp. JCS03
+[species]	Cosmolaelaps sp. JCS09
+[species]	Gaeolaelaps sp. JCS01
+[species]	Pneumolaelapssp. JCS04
+[species]	Stratiolaelaps lamington
+[species]	Stratiolaelaps lorna
+[species]	Ololaelaps sp. JCS07
+[species]	Androlaelaps marshalli
+[species]	Gaeolaelaps sp. JCS13
+[species]	Pneumolaelapssp. JCS05
+[species]	Gaeolaelaps sp. JCS09
+[species]	Gaeolaelaps sp. JCS11
+[species]	Laelaspis sp. JCS10
+[species]	Stratiolaelaps sp. AD1286
+[family]	Macrochelidae
+[species]	Macrocheles subbadius
+[species]	Macrocheles sp. JCS08
+[species]	Geholaspis sp. JCS07
+[species]	Glyptolaspis sp. JCS01
+[species]	Macrocheles sp. JCS13
+[species]	Macrocheles sp. JCS06
+[species]	Macrocheles glaber
+[species]	Macrocheles sp. JCS07
+[species]	Macrocheles muscaedomesticae
+[species]	Macrocheles sp. JCS11
+[species]	Macrocheles merdarius
+[species]	Macrocheles hoffmannae
+[species]	Macrocheles sp. JCS01
+[species]	Macrocheles nataliae
+[species]	Macrocheles robustulus
+[species]	Macrocheles sp. JCS19
+[species]	Macrocheles willowae
+[species]	Macrocheles praedafimetorum
+[species]	Geholaspis sp. JCS06
+[species]	Macrocheles sp. JCS25
+[species]	Macrocheles sp. JCS09
+[species]	Geholaspis sp. JCS05
+[species]	Macrocheles sp. JCS39
+[species]	Geholaspis sp. JCS03
+[species]	Holocelaeno sp. JCS01
+[species]	Macrocheles kaiju
+[species]	Geholaspis sp. JCS01
+[species]	Longicheles sp. JCS01
+[species]	Macrocheles sp. JCS16
+[species]	Macrocheles matrius
+[species]	Macrocheles sp. JCS23
+[species]	Geholaspis sp. JCS04
+[species]	Macrocheles sp. JCS18
+[species]	Macrocheles sp. JCS38
+[species]	Macrocheles sp. JCS20
+[species]	Macrocheles sp. JCS37
+[species]	Macrocheles sp. JCS17
+[species]	Macrocheles pratum
+[species]	Geholaspis sp. JCS08
+[species]	Macrocheles sp. JCS12
+[species]	Macrocheles penicilliger
+[species]	Macrocheles sp. JCS15
+[species]	Macrocheles sp. JCS22
+[species]	Macrocheles sp. JCS05
+[species]	Macrocheles scutiformis
+[species]	Macrocheles sp. JCS04
+[species]	Macrocheles kekensis
+[species]	Holocelaeno sp. JCS02
+[species]	Macrocheles sp. JCS21
+[species]	Macrocheles sp. JCS03
+[species]	Geholaspis sp. JCS02
+[species]	Macrocheles sp. JCS36
+[species]	Holostaspella bifoliata
+[species]	Macrocheles sp. JCS14
+[family]	Macrodinychidae
+[species]	Macrodinychus hilpertae
+[species]	Macrodinychus derbyensis
+[family]	Macronyssidae
+[species]	Ornithonyssus sylviarum
+[species]	Macronyssus crosbyi
+[species]	Ophionyssus natricis
+[species]	Ornithonyssus bacoti
+[family]	Megisthanidae
+[species]	Megisthanus floridanus
+[family]	Melicharidae
+[species]	Proctolaelaps sp. JCS24
+[species]	Proctolaelaps sp. JCS12
+[species]	Proctolaelaps sp. JCS35
+[species]	Proctolaelaps sp. JCS63
+[species]	Proctolaelaps sp. JCS47
+[species]	Proctolaelaps sp. JCS34
+[species]	Proctolaelaps sp. JCS28
+[species]	Proctolaelaps sp. JCS70
+[species]	Proctolaelaps sp. JCS19
+[species]	Proctolaelaps sp. JCS10
+[species]	Proctolaelaps novineus
+[species]	Proctolaelaps sp. JCS65
+[species]	Proctolaelaps sp. JCS37
+[species]	Tropicoseius sp. JCS01
+[species]	Proctolaelaps sp. JCS25
+[species]	Proctolaelaps sp. JCS36
+[species]	Proctolaelaps pygmaeus
+[species]	Proctolaelaps sp. JCS20
+[species]	Proctolaelaps sp. JCS71
+[species]	Proctolaelaps sp. JCS29
+[species]	Proctolaelaps sp. JCS06
+[species]	Proctolaelaps sp. JCS73
+[species]	Proctolaelaps sp. JCS32
+[species]	Spadiseius sp. JCS01
+[species]	Proctolaelaps sp. JCS50
+[species]	Proctolaelaps scolyti
+[species]	Proctolaelaps sp. JCS04
+[species]	Proctolaelaps sp. JCS31
+[species]	Proctolaelaps parascolyti
+[species]	Proctolaelaps sp. JCS56
+[species]	Proctolaelaps sp. JCS60
+[species]	Proctolaelaps sp. JCS51
+[species]	Proctolaelaps sp. JCS64
+[species]	Proctolaelaps sp. JCS48
+[species]	Proctolaelaps sp. JCS17
+[species]	Proctolaelaps sp. JCS22
+[species]	Proctolaelaps sp. JCS74
+[species]	Proctolaelaps sp. JCS52
+[species]	Proctolaelaps sp. JCS45
+[species]	Proctolaelaps sp. JCS18
+[species]	Proctolaelaps sp. JCS21
+[species]	Proctolaelaps sp. JCS55
+[species]	Proctolaelaps sp. JCS62
+[species]	Proctolaelaps sp. JCS40
+[species]	Proctolaelaps sp. JCS44
+[species]	Proctolaelaps sp. JCS01
+[species]	Proctolaelaps sp. JCS30
+[species]	Proctolaelaps sp. JCS54
+[species]	Proctolaelaps ornatus
+[species]	Proctolaelaps sp. JCS26
+[species]	Proctolaelaps sp. JCS07
+[species]	Proctolaelaps sp. JCS14
+[species]	Proctolaelaps sp. JCS23
+[species]	Proctolaelaps sp. JCS05
+[species]	Proctolaelaps sp. JCS11
+[species]	Proctolaelaps sp. JCS58
+[species]	Proctolaelaps sp. JCS43
+[species]	Proctolaelaps sp. JCS13
+[species]	Proctolaelaps sp. JCS49
+[species]	Proctolaelaps sp. JCS57
+[species]	Proctolaelaps sp. JCS66
+[species]	Rhinoseius sp. JCS01
+[species]	Proctolaelaps sp. JCS39
+[species]	Proctolaelaps sp. JCS27
+[species]	Proctolaelaps sp. JCS77
+[species]	Proctolaelaps sp. JCS03
+[species]	Proctolaelaps sp. JCS15
+[species]	Proctolaelaps sp. JCS38
+[species]	Proctolaelaps sp. JCS02
+[species]	Proctolaelaps sp. JCS41
+[species]	Proctolaelaps sp. JCS42
+[species]	Proctolaelaps sp. JCS33
+[species]	Proctolaelaps sp. JCS08
+[species]	Proctolaelaps sp. JCS53
+[species]	Proctolaelaps sp. JCS09
+[species]	Proctolaelaps sp. JCS16
+[species]	Proctolaelaps sp. JCS46
+[species]	Proctolaelaps sp. JCS75
+[species]	Proctolaelaps sp. JCS76
+[species]	Proctolaelaps sp. JCS68
+[species]	Proctolaelaps sp. JCS59
+[species]	Proctolaelaps sp. JCS72
+[family]	Microgyniidae
+[species]	Microgynium incisum
+[family]	Ologamasidae
+[species]	Gamasellus sp. JCS10
+[species]	Gamasellus sp. JCS01
+[species]	Gamasellus sp. JCS03
+[species]	Gamasellus sp. JCS08
+[species]	Gamasellus sp. JCS07
+[species]	Gamasellus sp. JCS05
+[species]	Gamasellus sp. JCS25
+[species]	Stylochirus rarior
+[species]	Gamasellus sp. JCS17
+[species]	Gamasellus sp. JCS23
+[species]	Gamasellus sp. JCS18
+[species]	Gamasellus sp. JCS19
+[species]	Gamasellus sp. JCS14
+[species]	Gamasellus sp. JCS16
+[species]	Gamasellus sp. JCS09
+[species]	Gamasiphis sp. JCS01
+[species]	Gamasellus sp. JCS27
+[species]	Gamasellus sp. JCS26
+[species]	Gamasellus sp. JCS13
+[species]	Gamasellus sp. JCS02
+[species]	Gamasiphis sp. JCS02
+[species]	Gamasellus sp. JCS04
+[species]	Gamasellus sp. JCS15
+[species]	Gamasellus sp. JCS12
+[species]	Gamasellus sp. JCS30
+[species]	Gamasiphis sp. JCS03
+[species]	Gamasellus sp. JCS06
+[species]	Gamasellus sp. JCS28
+[species]	Gamasellus sp. JCS22
+[species]	Gamasellus sp. JCS21
+[species]	Gamasellus sp. JCS24
+[species]	Gamasellus sp. JCS20
+[species]	Gamasellus sp.
+[species]	Gamasellus sp. JCS11
+[family]	Pachylaelapidae
+[species]	Sphaerolaelaps sp. JCS01
+[species]	Pachydellus sp. JCS01
+[species]	Zygoseius sp. JCS02
+[species]	Zygoseius sp. JCS01
+[species]	Pachylaelaps sp. JCS01
+[species]	Olopachys sp. UGS-AC 0014
+[family]	Parantennulidae
+[species]	Micromegistus gourlayi
+[family]	Parasitidae
+[species]	Lysigamasus vagabundus
+[species]	Pergamasus crassipes
+[species]	Parasitus fimetorum
+[species]	Amblygamasus mirabilis
+[species]	Aclerogamasus similis
+[species]	Vulgarogamasus burchanensis
+[species]	Gamasodes spiniger
+[species]	Parasitus lunulatus
+[species]	Parasitus hyalinus
+[species]	Phorytocarpais fimetorum
+[species]	Poecilochirus carabi
+[species]	Lysigamasus misellus
+[species]	Parasitus loricatus
+[species]	Vulgarogamasus immanis
+[species]	Parasitus beta
+[family]	Parholaspididae
+[species]	Parholaspella sp. JCS01
+[species]	Holaspina sp. JCS01
+[species]	Neparholaspis sp. JCS01
+[family]	Phytoseiidae
+[species]	Metaseiulus citri
+[species]	Proprioseiopsis borealis
+[species]	Proprioseiopsis terrestris
+[species]	Typhlodromus pyri
+[species]	Proprioseiopsis hurlbutti
+[species]	Amblyseius sp. JCS34
+[species]	Euseius finlandicus
+[species]	Metaseiulus herbertae
+[species]	Phytoseiulus persimilis
+[species]	Typhlodromips driggeri
+[species]	Amblyseius sp. JCS12
+[species]	Typhlodromus montanus
+[species]	Typhlodromus sp. JCS31
+[species]	Neoseiulella elaeocarpi
+[species]	Amblyseius sp. JCS03
+[species]	Neoseiulus sp. JCS18
+[species]	Amblyseius sp. JCS02
+[species]	Neoseiulus fallacis
+[species]	Amblyseius sp. JCS01
+[species]	Euseius nicholsi
+[species]	Amblyseius sp. JCS21
+[species]	Arrenoseius morgani
+[species]	Neoseiulus sp. JCS06
+[species]	Neoseiulus sp. JCS04
+[species]	Proprioseiopsis sp. JCS14
+[species]	Proprioseiopsis marginatus
+[species]	Typhlodromus sp. JCS28
+[species]	Chelaseius floridanus
+[species]	Neoseiulus barkeri
+[species]	Euseius sp. JCS01
+[species]	Neoseiulus sp. JCS34
+[species]	Amblyseius eharai
+[species]	Metaseiulus adjacentis
+[species]	Typhlodromus sp. JCS14
+[species]	Chelaseius sp. JCS02
+[species]	Amblyseius cucumeris
+[species]	Amblyseius sp. JCS20
+[species]	Kuzinellus querellus
+[species]	Amblyseius sp. JCS13
+[species]	Typhlodromus aquifolia
+[species]	Amblyseius largoensis
+[species]	Proprioseiopsis sp. JCS34
+[species]	Metaseiulus smith
+[species]	Amblyseius swirskii
+[species]	Proprioseiopsis sp. JCS10
+[species]	Amblyseiella setosa
+[species]	Phytoseius finitimus
+[species]	Typhlodromus sp. JCS03
+[species]	Amblyseius sp. JCS29
+[species]	Amblyseius perditus
+[species]	Typhlodromus sp. JCS22
+[species]	Metaseiulus sp. JCS07
+[species]	Neoseiulella manukae
+[species]	Galendromus longipilus
+[species]	Neoseiulus sp. JCS24
+[species]	Proprioseiopsis okanagensis
+[species]	Kampimodromus langei
+[species]	Neoseiulus sp. JCS12
+[species]	Arrenoseius sp. JCS02
+[species]	Neoseiulus sp. JCS05
+[species]	Neoseiulus womersleyi
+[species]	Typhlodromus bagdasarjani
+[species]	Neoseiulus cucumeris
+[species]	Galendromus occidentalis
+[species]	Phytoseius macropilis
+[species]	Amblyseius sp. JCS16
+[species]	Typhlodromus sp. JCS26
+[species]	Typhlodromina eharai
+[species]	Neoseiulus sp. JCS19
+[species]	Neoseiulus sp. JCS33
+[species]	Typhlodromips asiaticus
+[species]	Neoseiulus sp. JCS31
+[species]	Typhlodromus bakeri
+[species]	Typhlodromus sp. JCS21
+[species]	Typhlodromus sp. JCS06
+[species]	Metaseiulus sp. JCS03
+[species]	Kampimodromus aberrans
+[species]	Typhlodromus sp. JCS08
+[species]	Neoseiulus sp. JCS25
+[species]	Neoseiulus sp. JCS10
+[species]	Typhlodromus sp.
+[species]	Typhlodromus sp. JCS09
+[species]	Neoseiulus sp. JCS17
+[species]	Typhlodromips okinawanus
+[species]	Euseius sp. JCS06
+[species]	Amblyseius sp. JCS28
+[species]	Arrenoseius lecanis
+[species]	Proprioseiopsis sp. JCS27
+[species]	Amblyseius sp. JCS08
+[species]	Typhlodromips sp. JCS04
+[species]	Typhlodromips theae
+[species]	Typhlodromus sp. JCS05
+[species]	Typhlodromina conspicua
+[species]	Euseius alangii
+[species]	Neoseiulus sp. JCS15
+[species]	Metaseiulus sp. JCS02
+[species]	Typhlodromus recki
+[species]	Typhlodromus sp. JCS07
+[species]	Proprioseiopsis fragariae
+[species]	Neoseiulus sp. JCS13
+[species]	Kuzinellus sp. JCS01
+[species]	Typhlodromus sp. JCS24
+[species]	Amblyseius sp. JCS15
+[species]	Amblyseius sp. JCS30
+[species]	Typhlodromus sp. JCS10
+[species]	Phytoseius aleuritius
+[species]	Kampimodromus ericinus
+[species]	Typhlodromina sp. JCS01
+[species]	Neoseiulus sp. JCS21
+[species]	Proprioseiopsis sp. JCS40
+[species]	Proprioseiopsis sp. JCS16
+[species]	Amblyseius sp. JCS19
+[species]	Proprioseiopsis sp. JCS37
+[species]	Amblyseius sp. 3
+[species]	Proprioseiopsis sp. JCS39
+[species]	Typhlodromips sp. JCS05
+[species]	Phytoseius borealis
+[species]	Amblyseius sp. JCS26
+[species]	Amblyseiella amanoi
+[species]	Arrenoseius sp. JCS01
+[species]	Neoseiulus sp. JCS07
+[species]	Paraphytoseius orientalis
+[species]	Asperoseius lagunensis
+[species]	Typhlodromus sp. JCS29
+[species]	Metaseiulus flumenis
+[species]	Proprioseiopsis sp. JCS35
+[species]	Neoseiulus sp. JCS22
+[species]	Proprioseiopsis sp. JCS18
+[species]	Typhlodromus singularis
+[species]	Proprioseiopsis sp. JCS41
+[species]	Proprioseiopsis sp. JCS32
+[species]	Amblyseius degenerans
+[species]	Neoseiulus sp. JCS23
+[species]	Amblyseius sp. JCS06
+[species]	Neoseiulus californicus
+[species]	Neoseiulus sp. JCS02
+[species]	Metaseiulus validus
+[species]	Proprioseiopsis sp. JCS29
+[species]	Neoseiulus sp. JCS26
+[species]	Amblyseius sp. JCS24
+[species]	Amblyseius sp. JCS11
+[species]	Arrenoseius timagami
+[species]	Metaseiulus pini
+[species]	Typhlodromus sp. 1
+[species]	Paraseiulus triporus
+[species]	Proprioseiopsis sp. JCS30
+[species]	Amblyseius sp. JCS27
+[species]	Typhlodromalus peregrinus
+[species]	Neoseiulus sp. JCS37
+[species]	Euseius sp. JCS04
+[species]	Phytoseius minutus
+[species]	Neoseiulus sp. JCS29
+[species]	Amblyseius herbicolus
+[species]	Amblyseius sp. JCS07
+[species]	Neoseiulus sp. JCS30
+[species]	Amblyseius sp. JCS17
+[species]	Typhlodromus sp. JCS13
+[species]	Neoseiulus sp. JCS28
+[species]	Typhlodromus sp. JCS33
+[species]	Typhlodromus sp. JCS19
+[species]	Knopkirie sp. JCS01
+[species]	Neoseiulus reductus
+[species]	Amblyseius sp. JCS05
+[species]	Typhlodromus sp. X-BIOTU Ph-4
+[species]	Proprioseiopsis sp. JCS31
+[species]	Proprioseiopsis sp. JCS28
+[species]	Amblyseius sp. JCS14
+[species]	Paraseiulus soleiger
+[species]	Typhlodromus sp. JCS04
+[species]	Typhlodromus sp. JCS18
+[species]	Amblyseius andersoni
+[species]	Asperoseius henryae
+[species]	Neoseiulella sp. JCS07
+[species]	Typhlodromus sp. JCS11
+[species]	Typhlodromus sp. JCS27
+[species]	Typhlodromus exhilaratus
+[species]	Proprioseiopsis ismailiaensis
+[species]	Amblyseius sp. JCS22
+[species]	Typhlodromus sp. TYPH22
+[species]	Neoseiulella n.sp. JCS01
+[species]	Neoseiulus sp. JCS35
+[species]	Euseius sp. JCS07
+[species]	Galendromus sp. JCS04
+[species]	Arrenoseius sp.1
+[species]	Amblyseius tsugawai
+[species]	Proprioseiopsis sp. JCS33
+[species]	Amblyseius sp. JCS04
+[species]	Proprioseiopsis messor
+[species]	Neoseiulus sp. JCS08
+[species]	Typhlodromus sp. 2
+[species]	Neoseiulus sp. JCS32
+[species]	Typhlodromus sp. JCS23
+[species]	Neoseiulus sp. JCS27
+[species]	Asperoseius australiensis
+[species]	Typhlodromips rademacheri
+[species]	Amblyseius sp. JCS18
+[species]	Arrenoseius sp. JCS06
+[species]	Neoseiulus sp. JCS16
+[species]	Metaseiulus sp. JCS04
+[species]	Neoseiulus sp. JCS20
+[species]	Neoseiulus imbricatus
+[species]	Amblyseius sp. JCS25
+[species]	Typhlodromina tropica
+[species]	Neoseiulus longispinosus
+[species]	Typhlodromus sp. JCS32
+[species]	Typhlodromus nodosella
+[species]	Euseius sp. JCS05
+[species]	Typhlodromips sp. JCS01
+[species]	Metaseiulus sp. JCS08
+[species]	Neoseiulella nesbitti
+[species]	Chelaseius sp. JCS03
+[species]	Typhlodromus sp. JCS12
+[species]	Proprioseiopsis sp.JCS03
+[species]	Kampimodromus corylosus
+[species]	Neoseiulus sp. JCS36
+[species]	Chelaseius sp. JCS01
+[species]	Arrenoseius sp. JCS14
+[species]	Typhlodromus sp. JCS25
+[species]	Amblyseius sp. JCS33
+[species]	Amblyseius sp. JCS31
+[species]	Paraseiulus intermixtus
+[species]	Amblyseius sp. JCS32
+[species]	Metaseiulus sp. JCS01
+[species]	Amblyseius sp. JCS23
+[species]	Metaseiulus pomoides
+[species]	Phytoseiinae_JCS03 sp. JCS01
+[species]	Arrenoseius sp. JCS10
+[species]	Kampimodromus hmiminai
+[family]	Podocinidae
+[species]	Podocinum sagax
+[species]	Podocinum pacificum
+[family]	Rhinonyssidae
+[species]	Rhinonyssus rhinolethrum
+[species]	Rhinonyssus himantopus
+[species]	Ptilonyssus vireonis
+[family]	Rhodacaridae
+[species]	Protogamasellopsis corticalis
+[species]	Multidentorhodacarus sp. JCS01
+[species]	Rhodacarellus silesiacus
+[family]	Sejidae
+[species]	Sejus carolinensis
+[family]	Spinturnicidae
+[species]	Spinturnix myoti
+[species]	Spinturnix americanus
+[family]	Trachytidae
+[species]	Trachytes aegrota
+[species]	Polyaspinus cf.
+[family]	Trematuridae
+[species]	Trichouropoda parisiana
+[species]	Nenteria moseri
+[species]	Trichouropoda australis
+[species]	Nenteria floralis
+[species]	Trichouropoda polytrichasimilis
+[species]	Trichouropoda californica
+[species]	Trichouropoda perissops
+[species]	Trichouropoda tegucigalpae
+[species]	Trichouropoda lamellosa
+[species]	Trichouropoda moseri
+[species]	Trichouropoda n. sp. 6WK
+[species]	Nenteria chiapasa
+[species]	Trichouropoda n. sp. 8WK
+[species]	Trichouropoda sp. 3
+[species]	Trichouropoda hirsuta
+[species]	Trichouropoda polytricha
+[species]	Trichouropoda polygraphi
+[species]	Trichouropoda sp. 7
+[species]	Trichouropoda bipilis
+[species]	Trichouropoda orbicularis
+[species]	Trichouropoda fallax
+[species]	Trichouropoda sp. 13
+[species]	Trichouropoda n. sp. 9WK
+[species]	Trichouropoda n. sp. 1WK
+[species]	Trichouropoda n. sp. 10WK
+[species]	Trichouropoda ovalis
+[species]	Trichouropoda idahoensis
+[species]	Trichouropoda alascae
+[species]	Trichouropoda n. sp. 2WK
+[species]	Trichouropoda n. sp. 4WK
+[species]	Nenteria eulaelaptis
+[species]	Trichouropoda n. sp. 5WK
+[species]	Trichouropoda sp. 11
+[family]	Urodinychidae
+[species]	Uroobovella sp. 2WK
+[species]	Uroobovella sp. 1WK
+[species]	Uroobovella marginata
+[species]	Uroobovella sp. SAEVG Morph0197
+[species]	Uroobovella americana
+[species]	Uroobovella dryocoetes
+[species]	Uroobovella orri
+[species]	Uroobovella sp. 5WK
+[species]	Uroobovella fimicola
+[species]	Uroobovella vinicolora
+[species]	Prodinychus sp. AL7170
+[species]	Uroobovella sp. 4
+[species]	Uroobovella sp. 3WK
+[species]	Uroobovella sp. SAEVG Morph0196
+[species]	Uroobovella australiensis
+[family]	Uropodellidae
+[species]	Uropodella laciniata
+[family]	Uropodidae
+[species]	Uropoda orbicularis
+[species]	Oodinychus karawaiewi
+[family]	Varroidae
+[species]	Varroa destructor
+[species]	Varroa jacobsoni
+[family]	Veigaiidae
+[species]	Veigaia nemorensis
+[species]	Veigaia kochi
+[family]	Zerconidae
+[species]	Zercon sp. JCS15
+[species]	Zercon sp. JCS11
+[species]	Parazercon radiatus
+[species]	Zercon sp. JCS26
+[species]	Zercon sp. JCS27
+[species]	Zercon sp. JCS21
+[species]	Skeironozercon embersoni
+[species]	Skeironozercon tricavus
+[species]	Cosmozercon setosus
+[species]	Zercon sp. JCS20
+[species]	Zercon sp. JCS01
+[species]	Zercon sp. JCS06
+[species]	Zercon sp. JCS16
+[species]	Zercon sp. JCS13
+[species]	Zercon sp. JCS14
+[species]	Zercon sp. JCS18
+[species]	Zercon sp. JCS12
+[species]	Zercon sp. JCS23
+[species]	Zercon sp. JCS05
+[species]	Zercon sp. JCS07
+[species]	Zercon sp. JCS04
+[species]	Paramixozercon sp. JCS01
+[species]	Zercon sp. JCS17
+[species]	Boreozercon emendi
+[species]	Zercon sp. JCS09
+[species]	Zercon sp. JCS22
+[species]	Zercon sp. JCS08
+[species]	Zercon sp. JCS10
+[species]	Zercon sp. JCS24
+[species]	Zercon sp. JCS25
+[species]	Zercon sp. JCS03
+[species]	Zercon sp. JCS28
+[species]	Paramixozercon sp. JCS02
+[order]	Sarcoptiformes
+[family]	Acaridae
+[species]	Tyrophagus putrescentiae
+[species]	Acarus siro
+[species]	Tyroborus sp. AMUEnv048
+[species]	Acarus sp. 1 SMHJ-2019
+[species]	Sancassania berlesei
+[species]	Acarus gracilis
+[species]	Rhizoglyphus robini
+[species]	Aleuroglyphus ovatus
+[species]	Acarus immobilis
+[species]	Tyrophagus longior
+[species]	Sancassania sp. JCS01
+[species]	Sancassania aff. feytaudi 12D
+[species]	Acarus farris
+[species]	Caloglyphus berlesei
+[species]	Sancassania aff. feytaudi 12C
+[family]	Achipteriidae
+[species]	Achipteria coleoptrata
+[species]	Achipteria clarencei
+[species]	Anachipteria sp. ZL-2007a
+[species]	Anachipteria howardi
+[species]	Achipteria nitens
+[species]	Achipteria catskillensis
+[species]	Parachipteria bella
+[species]	Achipteria howardi
+[family]	Alloptidae
+[species]	Plicatalloptes pelecani
+[species]	Alloptes stercorarii
+[species]	Alloptes calidridis
+[species]	Alloptes sp.
+[species]	Alloptes obtusolobus
+[family]	Alycidae
+[species]	Alycus roseus
+[species]	Alycus sp. 1 PBK-2017
+[family]	Ameronothridae
+[species]	Ameronothrus maculatus
+[species]	Halozetes fulvus
+[species]	Alaskozetes antarcticus
+[species]	Halozetes marionensis
+[species]	Halozetes belgicae
+[species]	Halozetes crozetensis
+[species]	Ameronothrus nigrofemoratus
+[species]	Podacarus auberti
+[species]	Aquanothrus montanus
+[species]	Halozetes marinus
+[species]	Halozetes capensis
+[species]	Ameronothrus lineatus
+[species]	Halozetes intermedius
+[species]	Halozetes macquariensis
+[species]	Antarcticola georgiae
+[family]	Analgidae
+[species]	Analges sturninus
+[species]	Diplaegidia columbae
+[species]	Mesalgoides megnini
+[species]	Mesalgoides sp.
+[species]	Analges corvinus
+[species]	Anhemialges longipes
+[family]	Astegistidae
+[species]	Cultroribula bicultrata
+[species]	Furcoribula furcillata
+[family]	Autognetidae
+[species]	Autogneta longilamellata
+[species]	Conchogneta traegardhi
+[family]	Avenzoariidae
+[species]	Zachvatkinia isolata
+[species]	Promegninia calonectris
+[species]	Pandionacarus fuscus
+[species]	Scutomegninia sp. AMUScu01
+[species]	Scutomegninia minuta
+[species]	Bdellorhynchus polymorphus
+[species]	Bychovskiata vociferi
+[species]	Zachvatkinia stercorarii
+[species]	Rhinozachvatkinia sp. LS2013
+[species]	Laronyssus marinus
+[species]	Avenzoaria totani
+[species]	Bychovskiata squatarolae
+[species]	Avenzoaria calidridis
+[species]	Zygochelifer aff. flammeus
+[species]	Promegninia bulweriae
+[species]	Pomeranzevia ninnii
+[family]	Brachychthoniidae
+[species]	Liochthonius alpestris
+[species]	Brachychthonius sp.
+[species]	Liochthonius muscorum
+[family]	Carabodidae
+[species]	Carabodes labyrinthicus
+[species]	Carabodes reticulatus
+[species]	Carabodes willmanni
+[species]	Carabodes femoralis
+[species]	Odontocepheus elongatus
+[species]	Carabodes ornatus
+[species]	Carabodes areolatus
+[species]	Carabodes marginatus
+[species]	Carabodes sp. AMUOR020
+[family]	Carpoglyphidae
+[species]	Carpoglyphus lactis
+[family]	Ceratozetidae
+[species]	Diapterobates notatus
+[species]	Melanozetes meridianus
+[species]	Neogymnobates luteus
+[species]	Diapterobates humeralis
+[species]	Diapterobates sp. nov.
+[species]	Fuscozetes fuscipes
+[species]	Diapterobates variabilis
+[species]	Iugoribates gracilis
+[species]	Ceratozetes gracilis
+[species]	Protozetomimus acutirostris
+[species]	Dentizetes rudentiger
+[species]	Ceratozetes sp.
+[species]	Trichoribates incisellus
+[species]	Ghilarovizetes longisetosus
+[species]	Ceratozetes peritus
+[species]	Ceratozetella sellnicki
+[species]	Edwardzetes edwardsi
+[species]	Ceratozetes thienemanni
+[species]	Ceratozetes parvulus
+[species]	Ceratozetes cuspidatus
+[species]	Magellozetes antarcticus
+[species]	Oromurcia bicuspidata
+[species]	Ceratozetes pacificus
+[species]	Svalbardia paludicola
+[species]	Trichoribates novus
+[species]	Trichoribates trimaculatus
+[family]	Chaetodactylidae
+[species]	Sennertia alfkeni
+[species]	Sennertia japonica
+[species]	Sennertia sp. AK-2008
+[family]	Chamobatidae
+[species]	Chamobates cuspidatus
+[species]	Chamobates pusillus
+[species]	Chamobates borealis
+[species]	Chamobates voigtsi
+[species]	Chamobates rastratus
+[species]	Chamobates birulai
+[species]	Chamobates sp. SAEVG Morph0135
+[species]	Chamobates sp. AMUENV232
+[species]	Chamobates bispinosus
+[species]	Chamobates spinosus
+[species]	Chamobates sp. SAEVG Morph0133
+[family]	Chortoglyphidae
+[species]	Chortoglyphus arcuatus
+[family]	Compactozetidae
+[species]	Oribatodes mirabilis
+[species]	Cepheus cepheiformis
+[species]	Tritegeus bisulcatus
+[family]	Crotoniidae
+[species]	Platynothrus peltifer
+[species]	Platynothrus yamasakii
+[species]	Camisia lapponica
+[species]	Heminothrus longisetosus
+[species]	Camisia horrida
+[species]	Neonothrus humicola
+[species]	Heminothrus thori
+[species]	Camisia biurus
+[species]	Camisia biverrucata
+[species]	Neonothrus sp. nov.
+[species]	Platynothrus capillatus
+[species]	Camisia spinifer
+[species]	Platynothrus thori
+[species]	Platynothrus skottsbergii
+[species]	Heminothrus targionii
+[family]	Ctenobelbidae
+[species]	Ctenobelba pectinigera
+[family]	Cymbaeremaeidae
+[species]	Cymbaeremaeus cymba
+[species]	Scapheremaeus palustris
+[family]	Damaeidae
+[species]	Epidamaeus arcticola
+[species]	Kunstidamaeus lengersdorfi
+[species]	Epidamaeus floccosus
+[species]	Belba compta
+[species]	Metabelba pulverosa
+[species]	Porobelba spinosa
+[species]	Damaeus riparius
+[species]	Kunstidamaeus tecticola
+[species]	Quatrobelba montana
+[species]	Epidamaeus longitarsalis
+[species]	Damaeus clavipes
+[species]	Epidamaeus sp1
+[species]	Spatiodamaeus boreus
+[species]	Hypodamaeus brevitibialis
+[family]	Damaeolidae
+[species]	Fosseremus laciniatus
+[family]	Eniochthoniidae
+[species]	Eniochthonius crosbyi
+[species]	Eniochthonius minutissimus
+[family]	Epidermoptidae
+[species]	Knemidokoptes sp.
+[species]	Knemidokoptes jamaicensis
+[species]	Microlichus sp. AD1190
+[family]	Epilohmanniidae
+[species]	Epilohmannia sp. BMNH-1424139
+[species]	Epilohmannia sp. BMNH-1424118
+[species]	Epilohmannia sp. BMNH-1424122
+[species]	Epilohmannia pallida
+[species]	Epilohmannia sp. BMNH-1424145
+[family]	Eremaeidae
+[species]	Eueremaeus marshalli
+[species]	Eueremaeus cf. quadrilamellatus
+[species]	Eremaeus translamellatus
+[species]	Eueremaeus chiatous
+[species]	Eueremaeus quadrilamellatus
+[species]	Eueremaeus valkanovi
+[species]	Eueremaeus silvestris
+[species]	Eueremaeus oblongus
+[species]	Eueremaeus tetrosus
+[family]	Eremobelbidae
+[species]	Eremobelba gracilior
+[family]	Euphthiracaridae
+[species]	Rhysotritia ardua
+[species]	Rhysotritia duplicata
+[species]	Microtritia minima
+[species]	Euphthiracarus flavus
+[species]	Euphthiracarus sp. AMUOR021
+[family]	Euzetidae
+[species]	Euzetes globulus
+[family]	Freyanidae
+[species]	Freyana anatina
+[family]	Gabuciniidae
+[species]	Hieracolichus nisi
+[species]	Gabucinia aff. delibata
+[species]	Gabucinia delibata
+[family]	Galumnidae
+[species]	Acrogalumna longipluma
+[species]	Galumna lanceata
+[species]	Pilogalumna sp. 1 DEW
+[species]	Pergalumna wilmanni
+[species]	Pergalumna nervosa
+[species]	Galumna sp. 4DEW
+[species]	Pergalumna sp. AMUENV220
+[species]	Galumna elimata
+[family]	Glycyphagidae
+[species]	Lepidoglyphus destructor
+[species]	Glycyphagus domesticus
+[family]	Gustaviidae
+[species]	Gustavia microcephala
+[family]	Gymnodamaeidae
+[species]	Gymnodamaeus ornatus
+[species]	Gymnodamaeus bicostatus
+[family]	Haplozetidae
+[species]	Peloribates pilosus
+[species]	Peloribates canadensis
+[species]	Protoribates lophotrichus
+[species]	Xylobates lophotrichus
+[family]	Hermanniellidae
+[species]	Hermanniella punctulata var. septentrionalis
+[species]	Hermanniella dolosa
+[species]	Hermanniella robusta
+[family]	Hermanniidae
+[species]	Hermannia reticulata
+[species]	Hermannia sp.
+[species]	Hermannia gibba
+[species]	Hermannia sp. UJHER2
+[species]	Hermannia sp. UJHER1
+[family]	Histiostomatidae
+[species]	Bonomoia sp. AD653
+[species]	Histiostoma ovalis
+[species]	Histiostoma blomquisti
+[species]	Bonomoia sp. AMUBon02
+[family]	Hydrozetidae
+[species]	Hydrozetes parisiensis
+[species]	Hydrozetes sp.
+[family]	Hypochthoniidae
+[species]	Hypochthonius rufulus
+[species]	Hypochthonius luteus
+[family]	Liacaridae
+[species]	Dorycranosus sp. 1
+[species]	Liacarus subterraneus
+[species]	Xenillus tegeocranus
+[species]	Adoristes ovatus
+[species]	Xenillus latus
+[species]	Dorycranosus acutidens
+[species]	Liacarus coracinus
+[species]	Liacarus xylariae
+[species]	Adoristes poppei
+[family]	Licneremaeidae
+[species]	Licneremaeus licnophorus
+[family]	Licnodamaeidae
+[species]	Licnodamaeus pulcherrimus
+[family]	Listrophoridae
+[species]	Leporacarus gibbus
+[species]	Schizocarpus sp. AMUChi01
+[species]	Lynxacarus mustelae
+[family]	Malaconothridae
+[species]	Malaconothrus monodactylus
+[species]	Trimalaconothrus maior
+[species]	Malaconothrus mollisetosus
+[family]	Micreremidae
+[species]	Micreremus brevipes
+[family]	Micropsammidae
+[species]	Micropsammus sp. 3 PBK-2017
+[species]	Micropsammus sp. 2 PBK-2017
+[species]	Micropsammus sp. 1 PBK-2017
+[family]	Microzetidae
+[species]	Microzetes septentrionalis
+[family]	Mochlozetidae
+[species]	Podoribates pratensis
+[species]	Podoribates longipes
+[family]	Nanhermanniidae
+[species]	Nanhermannia comitalis
+[species]	Nanhermannia elegantula
+[species]	Nanhermannia coronata
+[family]	Nanorchestidae
+[species]	Nanorchestes antarcticus
+[species]	Speleorchestes sp. AD1314
+[species]	Speleorchestes sp. FP413
+[species]	Nanorchestes sp. AD1089
+[species]	Nanorchestes sp. SAEVG Morph0025
+[family]	Nematalycidae
+[species]	Psammolycus sp. AD1454
+[species]	Gordialycus sp. AD1388
+[species]	Cunliffea sp. 2 PBK-2017
+[family]	Neoliodidae
+[species]	Poroliodes farinosus
+[family]	Nothridae
+[species]	Nothrus silvestris
+[species]	Nothrus anauniensis
+[species]	Nothrus pratensis
+[species]	Nothrus palustris
+[species]	Nothrus cf. anauniensis
+[species]	Nothrus borussicus
+[species]	Nothrus sp. UJW03
+[species]	Nothrus cf. borussicus
+[family]	Oppiidae
+[species]	Moritzoppia clavigera
+[species]	Oppia nitens
+[species]	Oppiella sp.
+[species]	Oppiella subpectinata
+[species]	Oppiella nova
+[species]	Dissorhina ornata
+[species]	Microppia minus
+[species]	Oppiella n. sp.
+[species]	Ramusella clavipectinata
+[species]	Oppiella uliginosa
+[species]	Berniniella hauseri
+[species]	Multioppia glabra
+[species]	Berniniella sp. SAEVG Morph0053
+[species]	Ramusella elliptica
+[species]	Globoppia intermedia
+[family]	Oribatellidae
+[species]	Oribatella quadricornuta
+[species]	Oribatella calcarata
+[species]	Oribatella superbula
+[species]	Oribatella sp. 1 vbp
+[family]	Oribatulidae
+[species]	Liebstadia similis
+[species]	Oribatula tibialis
+[species]	Phauloppia boletorum
+[species]	Lucoppia burrowsii
+[species]	Oribatula interrupta
+[species]	Zygoribatula sp. 1DEW
+[species]	Oribatula sp. 1 dew
+[species]	Zygoribatula undulata
+[species]	Liebstadia sp.
+[species]	Phauloppia lucorum
+[species]	Dometorina plantivaga
+[family]	Oribotritiidae
+[species]	Protoribotritia sp. 1DEW
+[family]	Parakalummidae
+[species]	Neoribates quadrisetosus
+[species]	Neoribates aurantiacus
+[family]	Peloppiidae
+[species]	Ceratoppia quadridentata
+[species]	Dendrozetes sp.
+[species]	Macquarioppia striata
+[species]	Ceratoppia sp. 2 ZL
+[species]	Ceratoppia sp. 4 ZL
+[species]	Ceratoppia n. sp.
+[family]	Phenopelopidae
+[species]	Propelops canadensis
+[species]	Eupelops occultus
+[species]	Eupelops torulosus
+[species]	Propelops alaskensis
+[species]	Peloptulus phaenotus
+[species]	Eupelops septentrionalis
+[species]	Unduloribates undulatus
+[species]	Eupelops sp.
+[species]	Eupelops terminalis
+[species]	Eupelops acromios
+[species]	Unduloribates dianae
+[family]	Phthiracaridae
+[species]	Phthiracarus boresetosus
+[species]	Steganacarus magnus
+[species]	Atropacarus striculus
+[species]	Phthiracarus longulus
+[species]	Steganacarus spinosus
+[species]	Steganacarus hirsutus
+[species]	Steganacarus carlosi
+[species]	Hoplophthiracarus illinoisensis
+[species]	Phthiracarus laevigatus
+[species]	Phthiracarus crinitus
+[species]	Steganacarus applicatus
+[species]	Steganacarus carinatus
+[species]	Rhacaplacarus ortizi
+[species]	Steganacarus sp. 7Go
+[species]	Steganacarus brevipilus
+[species]	Phthiracarus nitens
+[species]	Steganacarus crassisetosus
+[species]	Phthiracarus globosus
+[species]	Steganacarus similis
+[species]	Steganacarus carusoi
+[species]	Phthiracarus borealis
+[species]	Steganacarus tenerifensis
+[species]	Steganacarus herculeanus
+[species]	Atropacarus sp. AMUOR101
+[family]	Proctophyllodidae
+[species]	Proctophyllodes mesocaulus
+[species]	Proctophyllodes sylviae
+[species]	Monojoubertia hemiphylla
+[species]	Dolichodectes hispanicus
+[species]	Monojoubertia microphylla
+[species]	Proctophyllodes lusciniae
+[species]	Proctophyllodes hylocichlae
+[species]	Proctophyllodes motacillae
+[species]	Joubertophyllodes modularis
+[species]	Proctophyllodes anthi
+[species]	Proctophyllodes ateri
+[species]	Proctophyllodes cetti
+[species]	Proctophyllodes clavatus
+[species]	Proctophyllodes nr. scolopacinus
+[species]	Proctophyllodes serini
+[species]	Proctophyllodes doleophyes
+[species]	Proctophyllodes stylifer
+[species]	Proctophyllodes reguli
+[species]	Proctophyllodes detruncatus
+[species]	Proctophyllodes spini
+[species]	Proctophyllodes pinnatus
+[species]	Anisophyllodes pipromorphae
+[species]	Joubertophyllodes ampulaceus
+[species]	Proctophyllodes musicus
+[species]	Proctophyllodes canadensis
+[species]	Amerodectes gracilis
+[species]	Proctophyllodes thraupis
+[species]	Amerodectes aff. plumbeus
+[species]	Proctophyllodes vassilevi
+[species]	Amerodectes dumetellae
+[species]	Proctophyllodes pheuctici
+[species]	Proctophyllodes fuchsi
+[species]	Proctophyllodes attenuatus
+[species]	Proctophyllodes aff. musicus
+[species]	Proctophyllodes apanaskevichi
+[species]	Proctophyllodes valchukae
+[species]	Anisophyllodes aff. elaeniae
+[species]	Proctophyllodes troncatus
+[species]	Metapterodectes toxostomae
+[species]	Proctophyllodes neopinnatus
+[species]	Alaudicola bureschi
+[species]	Amerodectes aff. caribaeus
+[species]	Montesauria macronoi group sp.
+[species]	Trochilodectes buconvexus
+[species]	Proctophyllodes acanthicaulus
+[species]	Proctophyllodes schoenicli
+[species]	Proctophyllodes rubeculinus
+[species]	Amerodectes sp. 2 AEM-2018
+[species]	Proctophyllodes weigoldi
+[species]	Proctophyllodes gallowayi
+[species]	Proctophyllodes quadratus
+[species]	Proctophyllodes hipposideros
+[species]	Proctophyllodes troglodytis
+[species]	Proctophyllodes cotyledon
+[species]	Amerodectes sp. 1 AEM-2018
+[species]	Platyacarus aff. sittasomi
+[species]	Platyacarus cf. dontocoronius
+[species]	Nycteridocaulus lamellus
+[species]	Proctophyllodes megaphyllus
+[species]	Proctophyllodes habiae
+[species]	Allodectes wetmorei
+[species]	Proctophyllodes aff. gularis
+[species]	Proctophyllodes egglestoni
+[species]	Pterodectes rutilus
+[species]	Proctophyllodes longiphyllus
+[species]	Montesauria hernandesi
+[species]	Proctophyllodes miliariae
+[species]	Proctophyllodes poublani
+[species]	Proctophyllodes leptocaulus
+[species]	Proctophyllodes simillimus
+[species]	Rhamphocaulus vachoni
+[species]	Proctophyllodes ciae
+[species]	Proctophyllodes aff. picae
+[species]	Nycteridocaulus aff. lamellus
+[species]	Proctophyllodes caulyfer
+[species]	Allodectes paulicaulus
+[species]	Amerodectes sp. 3 AEM-2018
+[species]	Proctophyllodes tenericaulus
+[species]	Montesauria cilindrica
+[species]	Proctophyllodes macedo
+[species]	Proctophyllodes schwerinensis
+[species]	Amerodectes aff. geothlypis
+[species]	Rhamphocaulus sinuatus
+[species]	Proctophyllodes locustellae
+[species]	Proctophyllodes ludovicianus
+[species]	Proctophyllodes glandarinus
+[species]	Proctophyllodes vitzthumi
+[species]	Proctophyllodes dendroicae
+[species]	Montesauria leioplax
+[species]	Proctophyllodes remizicola
+[species]	Proctophyllodes ampelidis
+[species]	Trochilodectes bicuspidus
+[species]	Proctophyllodes aff. dendroicae
+[species]	Proctophyllodes icteri
+[species]	Proctophyllodes empidonicis
+[species]	Proctophyllodes vegetans
+[species]	Rhamphocaulus aff. sinuatus
+[species]	Amerodectes sp. 4 AEM-2018
+[species]	Proctophyllodes stoddardi
+[species]	Proctophyllodes aff. polyxenus
+[species]	Proctophyllodes sporophilae
+[species]	Montesauria caerulea
+[species]	Proctophyllodes aff. ceratophyllus
+[species]	Joubertophyllodes proximus
+[species]	Proctophyllodes sp. AMUFM909
+[species]	Amerodectes aff. atyeoi
+[species]	Proctophyllodes scolopacinus
+[species]	Tyrannidectes berlai
+[species]	Proctophyllodes aff. scolopacinus
+[species]	Proctophyllodes aff. cotyledon
+[species]	Proctophyllodes microstylifer
+[species]	Proctophyllodes aff. troncatus
+[species]	Proctophyllodes volgini
+[species]	Proctophyllodes sp. GSS-2011
+[species]	Proctophyllodes trisetosus
+[species]	Proctophyllodes aff. breviquadratus
+[family]	Psoroptidae
+[species]	Otodectes cynotis
+[species]	Psoroptes cuniculi
+[species]	Pandalura sp.
+[species]	Psoralges libertus
+[species]	Chorioptes texanus
+[species]	Chorioptes sp. SW-2010a
+[species]	Hyomesalges sp.
+[species]	Temnalges sp.
+[species]	Chorioptes bovis
+[species]	Psoroptes natalensis
+[species]	Caparinia sp.
+[species]	Pandalura strigisoti
+[species]	Pandalura oconnori
+[species]	Chorioptes sweatmani
+[family]	Psoroptoididae
+[species]	Picalgoides picimajoris
+[species]	Picalgoides sp.
+[species]	Picalgoides aff. Pteroglossorum
+[family]	Pterolichidae
+[species]	Ardeacarus ardeae
+[species]	Grallobia fulicae
+[species]	Xoloptes blaszaki
+[family]	Pteronyssidae
+[species]	Pteronyssoides piscinotus
+[species]	Sturnotrogus truncatus
+[species]	Pteronyssoides parinus
+[species]	Pteronyssus picoides
+[species]	Neopteronyssus pici
+[species]	Pteroherpus josephi sp. group
+[species]	Pteronyssus sphyrapicinus
+[species]	Pteronyssoides motacillae
+[species]	Scutulanyssus subis
+[species]	Pteronyssoides striatus
+[species]	Scutulanyssus hirundicola
+[species]	Stenopteronyssus proctorae
+[species]	Scutulanyssus obscurus
+[species]	Mouchetia nr. Indochinensis
+[family]	Ptyssalgidae
+[species]	Ptyssalges sp. AD1171
+[family]	Punctoribatidae
+[species]	Mycobates beringianus
+[species]	Mycobates conitus
+[species]	Punctoribates punctum
+[species]	Punctoribates palustris
+[species]	Mycobates perates
+[species]	Mycobates incurvatus
+[species]	Mycobates tridactylus
+[species]	Punctoribates hexagonus
+[species]	Minunthozetes semirufus
+[species]	Mycobates sarekensis
+[species]	Antarctozetes crozetensis
+[family]	Pyroglyphidae
+[species]	Dermatophagoides pteronyssinus
+[species]	Dermatophagoides evansi
+[species]	Dermatophagoides farinae
+[species]	Dermatophagoides sp. JN_5
+[species]	Sturnophagoides bakeri
+[species]	Dermatophagoides sp. SJZ_2
+[species]	Gymnoglyphus osu
+[species]	Hirstia chelidonis
+[species]	Dermatophagoides sp. SJZ_5
+[species]	Dermatophagoides sp. HN_8
+[species]	Dermatophagoides sp. WH_7
+[species]	Dermatophagoides sp. HN_2
+[species]	Gymnoglyphus longior
+[species]	Dermatophagoides sp. JN_10
+[species]	Dermatophagoides sp. SJZ_4
+[species]	Dermatophagoides sp. SJZ_6
+[species]	Dermatophagoides sp. HN_12
+[species]	Dermatophagoides sp. WH_1
+[species]	Dermatophagoides sp. WH_6
+[species]	Dermatophagoides sp. HN_9
+[species]	Dermatophagoides sp. WH_3
+[species]	Dermatophagoides sp. JN_1
+[species]	Dermatophagoides sp.
+[species]	Euroglyphus sp. AMUEUR1506
+[species]	Dermatophagoides sp. WH_4
+[species]	Dermatophagoides sp. SJZ_3
+[species]	Dermatophagoides sp. JN_6
+[species]	Dermatophagoides sp. HN_3
+[species]	Dermatophagoides sp. HN_1
+[species]	Dermatophagoides sp. JN_3
+[species]	Dermatophagoides sp. JN_7
+[species]	Dermatophagoides sp. SJZ_1
+[species]	Echimytricalges guyanensis
+[species]	Dermatophagoides sp. JN_2
+[species]	Dermatophagoides sp. HN_13
+[species]	Dermatophagoides sp. HN_10
+[species]	Dermatophagoides sp. HN_7
+[species]	Dermatophagoides sp. JN_4
+[species]	Dermatophagoides sp. HN_11
+[species]	Dermatophagoides sp. JN_8
+[species]	Dermatophagoides sp. WH_2
+[species]	Dermatophagoides sp. JN_9
+[species]	Dermatophagoides sp. SJZ_7
+[species]	Dermatophagoides sp. WH_5
+[species]	Dermatophagoides sp. HN_5
+[species]	Paralgopsis sp.
+[species]	Dermatophagoides sp. HN_4
+[species]	Dermatophagoides sp. HN_6
+[family]	Quadroppiidae
+[species]	Quadroppia maritalis
+[species]	Quadroppia quadricarinata
+[family]	Sarcoptidae
+[species]	Sarcoptes scabiei
+[family]	Scheloribatidae
+[species]	Scheloribates pallidulus
+[species]	Hemileius haydeni
+[species]	Scheloribates clavilanceolatus
+[species]	Paraleius sp. 1 SS-2020
+[species]	Hemileius initialis
+[species]	Paraleius sp. 5 SS-2020
+[species]	Paraleius sp. 6 SS-2020
+[species]	Siculobata sicula
+[species]	Scheloribates badius
+[species]	Paraleius sp. 2 SS-2020
+[species]	Paraleius sp. 4 SS-2020
+[species]	Scheloribates laevigatus
+[species]	Paraleius leahae
+[species]	Scheloribates sp. SAEVG Morph0178
+[species]	Paraleius sp. 3 SS-2020
+[species]	Scheloribates latipes
+[family]	Scutoverticidae
+[species]	Scutovertex sculptus
+[species]	Provertex kuehnelti
+[species]	Scutovertex sp. Hungary
+[species]	Scutovertex sp. Wangen
+[species]	Scutovertex pileatus
+[species]	Scutovertex minutus
+[species]	Scutovertex alpinus
+[species]	Scutovertex sp. ianus
+[species]	Lamellovertex caelatus
+[species]	Scutovertex pannonicus
+[species]	Scutovertex arenocolus
+[species]	Exochocepheus hungaricus
+[species]	Scutovertex pictus
+[species]	Exochocepheus sp. SAEVG Morph0055
+[family]	Suctobelbidae
+[species]	Rhinosuctobelba dicerosa
+[species]	Allosuctobelba obtusa
+[species]	Suctobelbella subtrigona
+[species]	Allosuctobelba gigantea
+[species]	Suctobelbella subcornigera
+[species]	Suctobelbella sarekensis
+[species]	Allosuctobelba grandis
+[family]	Suidasiidae
+[species]	Suidasia medanensis
+[species]	Suidasia sp. 2 YEZ-2017
+[family]	Syringobiidae
+[species]	Syringobia longipenis
+[family]	Tectocepheidae
+[species]	Tectocepheus velatus
+[species]	Tectocepheus sarekensis
+[species]	Tectocepheus alatus
+[species]	Tectocepheus tenuis
+[species]	Tectocepheus minor
+[family]	Tegoribatidae
+[species]	Scutozetes lanceolatus
+[species]	Tegoribates americanus
+[family]	Tenuialidae
+[species]	Hafenrefferia gilvipes
+[family]	Thyrisomidae
+[species]	Pantelozetes paolii
+[species]	Banksinoma spinifera
+[species]	Panthelozetes paoli
+[family]	Trhypochthoniidae
+[species]	Trhypochthonius tectorum
+[species]	Trhypochthonius cladonicola
+[species]	Archegozetes longisetosus
+[species]	Trhypochthonius sp. 0_mite
+[species]	Trhypochthonius japonicus
+[species]	Mucronothus nasalis
+[species]	Trhypochthonius silvestris
+[species]	Trhypochthonius sp. 9_mite
+[species]	Trhypochthoniellus longiseta
+[species]	Trhypochthonius sp. 1_mite
+[species]	Trhypochthonius cladonicolus
+[species]	Mucronothrus nasalis
+[species]	Trhypochthonius sp. 2_mite
+[species]	Trhypochthonius sp. 4_mite
+[family]	Trouessartiidae
+[species]	Trouessartia rubecula
+[species]	Trouessartia microcaudata
+[species]	Trouessartia reguli
+[species]	Trouessartia rosterii
+[species]	Trouessartia jedliczkai
+[species]	Steatacarus bifiditibia
+[species]	Trouessartia kratochvili
+[species]	Trouessartia ripariae
+[species]	Trouessartia appendiculata
+[species]	Trouessartia simillima
+[species]	Trouessartia trouessarti
+[species]	Trouessartia bifurcata
+[species]	Trouessartia swidwiensis
+[species]	Trouessartia tenuipilata
+[species]	Trouessartia sp. AMUFM627
+[species]	Trouessartia aff. incisa
+[species]	Trouessartia minuscula
+[species]	Trouessartia aff. capensis
+[species]	Trouessartia inexpectata
+[family]	Xolalgidae
+[species]	Metingrassia pelecani
+[species]	Glaucalges sp. n. MD-2007
+[species]	Ingrassia sp. n. MD-2007
+[species]	Vingrassia velata
+[species]	Ingrassia philomachi
+[species]	Ingrassia sp. AMUFM204
+[species]	Glaucalges attenuatus
+[order]	Trombidiformes
+[family]	Adamystidae
+[species]	Adamystis sp. AD1939
+[family]	Anisitsiellidae
+[species]	Nilotonia borneri
+[species]	Bandakia cf. concreta B LB-2019
+[species]	Bandakia cf. concreta A LB-2019
+[family]	Anystidae
+[species]	Anystis agilis
+[species]	Anystis sp.
+[species]	Anystis sp. AD1012
+[species]	Anystis sp. SAEVG Morph0052
+[family]	Arrenuridae
+[species]	Arrenurus wardi
+[species]	Arrenurus lyriger
+[species]	Arrenurus sp.
+[species]	Arrenurus sp. 2 JLR-2018
+[species]	Arrenurus apetiolatus
+[species]	Arrenurus cylindratus
+[species]	Arrenurus cheboyganensis
+[species]	Arrenurus tricuspidator
+[species]	Arrenurus manubriator
+[species]	Arrenurus cuspidifer
+[species]	Arrenurus hungerfordi
+[species]	Arrenurus planus
+[species]	Arrenurus americanus
+[species]	Arrenurus novus
+[species]	Arrenurus magnicaudatus
+[species]	Arrenurus maryellenae
+[species]	Arrenurus biscissus
+[species]	Arrenurus sinuator
+[species]	Arrenurus compactus
+[species]	Arrenurus reflexus
+[species]	Arrenurus intermedius
+[species]	Arrenurus bruzelii
+[species]	Arrenurus fissicornis
+[species]	Arrenurus solifer
+[species]	Arrenurus sp. WK-2013
+[species]	Arrenurus marshallae
+[species]	Arrenurus neumani
+[species]	Arrenurus longicaudatus
+[species]	Arrenurus drepanophorus
+[species]	Arrenurus inexploratus
+[species]	Arrenurus perforatus
+[species]	Arrenurus fontinalis
+[species]	Arrenurus mucronatus
+[species]	Arrenurus bleptopetiolatus
+[species]	Arrenurus birgei
+[species]	Arrenurus sp. 4 JLR-2018
+[species]	Arrenurus megalurus
+[species]	Arrenurus sp. 3 JLR-2018
+[species]	Arrenurus setiger
+[species]	Arrenurus muelleri
+[species]	Arrenurus affinis
+[species]	Arrenurus securiformis
+[species]	Arrenurus robustus
+[species]	Arrenurus stecki
+[species]	Arrenurus fimbriatus
+[species]	Arrenurus albator
+[species]	Arrenurus cardiacus
+[species]	Arrenurus globator
+[species]	Arrenurus pustulator
+[species]	Arrenurus crenellatus
+[species]	Arrenurus truncatellus
+[species]	Arrenurus mediorotundatus
+[species]	Arrenurus crassicaudatus
+[species]	Arrenurus bicuspidator
+[species]	Arrenurus suecicus
+[species]	Arrenurus sp. 1 JLR-2018
+[species]	Arrenurus major
+[family]	Athienemanniidae
+[species]	Chelomideopsis annemiae
+[family]	Aturidae
+[species]	Axonopsis sp. 1BHL041917av
+[species]	Aturus scaber
+[species]	Ljania cf. bipapillata A LB-2019
+[species]	Ljania cf. bipapillata B LB-2019
+[species]	Albia sp. 126BHL080816COI
+[family]	Barbutiidae
+[species]	Barbutia sp. AD1914
+[family]	Bdellidae
+[species]	Neomolgus sp.
+[species]	Cyta sp. Acar6
+[species]	Bdellidae_incertae_sedis PBBC-RESL-18
+[species]	Bdellodes sp. A
+[species]	Bdella sp. 2
+[species]	Bdella sp. MYMCF418-12
+[family]	Bogatiidae
+[species]	Horreolanus orphanus
+[family]	Caeculidae
+[species]	Neocaeculus sp.
+[species]	Andocaeculus sp. SPDAR1654-16
+[species]	Andocaeculus sp. SPDAR1591-16
+[species]	Andocaeculus sp. SPDAR1877-17
+[species]	Caeculus sp. SPDAR1899-17
+[species]	Andocaeculus sp. 1 AOP-2020
+[species]	Andocaeculus sp. SPDAR1642-16
+[species]	Microcaeculus sp. JCO-1999
+[family]	Calyptostomatidae
+[species]	Calyptostoma sp.
+[species]	Calyptostoma velutinus
+[family]	Cheyletidae
+[species]	Cheletomorpha lepidopterorum
+[species]	Cheyletus bidentatus
+[species]	Cheyletus malaccensis
+[species]	Cheyletus carnifex
+[species]	Eucheyletia sinensis
+[family]	Cunaxidae
+[species]	Denheyernaxoides americanus
+[species]	Lupaeus sp. SAEVG Morph0060
+[family]	Demodicidae
+[species]	Demodex brevis
+[species]	Demodex folliculorum
+[species]	Demodex canis
+[family]	Diptilomiopidae
+[species]	Rhinotergum shaoguanense
+[species]	Quadracus urticarius
+[species]	Rhyncaphytoptus sp.
+[species]	Rhinotergum cerasifoliae
+[family]	Ereynetidae
+[species]	Pseudotydeus sp. JCS01
+[family]	Eriophyidae
+[species]	Aceria tosichella
+[species]	Floracarus perrepae
+[species]	Epitrimerus sabinae
+[species]	Aceria litchii
+[species]	Aceria eximia
+[species]	Abacarus hystrix
+[species]	Aceria angustifoliae
+[species]	Abacarus sp. 1 MED-2017
+[species]	Cecidophyopsis hendersoni
+[species]	Abacarus acutatus
+[species]	Eriophyes tiliae
+[species]	Aculodes altamurgiensis
+[species]	Phyllocoptes sanctus
+[species]	Leipothrix sp. 1 XFX-2017
+[species]	Aceria genistae
+[species]	Aceria guerreronis
+[species]	Metaculus sp.
+[species]	Aceria sp. UAS-B 2698
+[species]	Eriophyes sp. amu 543
+[species]	Phyllocoptruta oleivora
+[species]	Aceria sp. Z18
+[species]	Aceria sp. Z212
+[species]	Abacarus sp. 6 PL-2017
+[species]	Abacarus sp. 3 PL-2017
+[species]	Colomerus vitis
+[species]	Cecidophyopsis malpighianus
+[species]	Abacarus lolii
+[species]	Abacarus sp. 7 PL-2017
+[species]	Metaculus rapistri
+[species]	Metaculus lepidifolii
+[species]	Aceria massalongoi
+[species]	Aceria sp. E32
+[species]	Aceria tulipae
+[species]	Acalitus sp. amu 500
+[species]	Abacarus sp.
+[species]	Aculodes mckenziei
+[species]	Aceria sp.
+[species]	Cecidophyopsis ribis
+[species]	Aceria sp. Z165
+[species]	Metaculus sp. TKC-2015
+[species]	Aculops sp. NJAUAcariEriH82
+[species]	Eriophyes sp.
+[species]	Eriophyes padi
+[species]	Eriophyes sp. amu 499
+[species]	Eriophyes sp. AD1122
+[species]	Eriophyes sp. amu 502
+[species]	Cecidophyes gymnaspis
+[species]	Tegolophus sp.
+[species]	Shevtchenkella sp. AN385
+[species]	Aceria tuberculata
+[species]	Aculus sp.
+[species]	Aceria sp. UAS-B 2498
+[species]	Shevtchenkella sp. NJAUAcariEriS91.1
+[species]	Aceria sp. Z66
+[species]	Aceria sp. Z102
+[species]	Phyllocoptes taishanensis
+[species]	Aceria sp. 1 DOJ-2017
+[species]	Cisaberoptus kenyae
+[species]	Abacarus sp. 4 PL-2017
+[species]	Aceria acroptiloni
+[species]	Abacarus sp. 5 PL-2017
+[species]	Acalitus sp. amu 498
+[species]	Aceria holopteleae
+[species]	Cecidophyes glaber
+[species]	Aceria mori
+[species]	Abacarus sp. 2 PL-2017
+[species]	Aculops sp. NJAUAcariEriH84
+[species]	Eriophyes sorbi
+[species]	Aculus sp. NJAUAcariEriS92
+[species]	Aceria pongamiae
+[species]	Aculops lycopersici
+[species]	Aculus cornutus
+[species]	Cecidophyopsis verilicis
+[species]	Aberoptus sp.
+[species]	Aceria sp. Z264
+[species]	Cecidophyes galii
+[species]	Aceria anthocoptes
+[species]	Tegolophus suffruticosae
+[species]	Cecidophyopsis psilaspis
+[species]	Platyphytoptus sabinianae
+[species]	Aberoptus platessoides
+[species]	Abacarus denticulifer
+[family]	Eriorhynchidae
+[species]	Eriorhynchus sp.
+[family]	Erythracaridae
+[species]	Erythracarus sp.
+[family]	Erythraeidae
+[species]	Balaustium murorum
+[species]	Abrolophus sp. SKPG004
+[species]	Leptus sp. 6 SGDSC-2020
+[species]	Leptus sp. 1 MF-2019
+[species]	Erythraeus sp.
+[species]	Balaustium sp. SKPG003
+[species]	Erythraeus phalangioides
+[species]	Abrolophus sp. JC02
+[species]	Leptus sp. SAEVG Morph0102
+[species]	Balaustium sp. SKPG002
+[species]	Erythrites sp.
+[species]	Abrolophus sp. JC03
+[species]	Leptus sp. 2 SGDSC-2020
+[species]	Leptus sp. 5 SGDSC-2020
+[species]	Leptus sp. 4 SGDSC-2020
+[species]	Leptus ignotus
+[species]	Abrolophus rubipes
+[species]	Charletonia cardinalis
+[species]	Abrolophus sp. JC01
+[species]	Leptus sp. SAEVG Morph0276
+[species]	Lasioerythraeus sp.
+[species]	Balaustium sp. SKPG001
+[species]	Balaustium medicagoense
+[species]	Leptus sp. SAEVG Morph0275
+[species]	Lasioerythraeus sp. 2 SGDSC-2020
+[species]	Erythroides sp.
+[species]	Erythraeus sp. AD-2011
+[species]	Leptus sp. 1 SGDSC-2020
+[species]	Balaustium sp. AD1272
+[species]	Leptus sp. 3 SGDSC-2020
+[species]	Lasioerythraeus sp. 1 SGDSC-2020
+[species]	Leptus sp. 7 SGDSC-2020
+[species]	Leptus sp. SAEVG Morph0101
+[family]	Eupodidae
+[species]	Eupodes minutus
+[species]	Eupodes sp. FP179
+[species]	Eupodes sp.
+[species]	Eupodes cf. voxencollinus FP492
+[species]	Linopodes sp. AD1085
+[species]	Linopodes sp. FP561
+[species]	Eupodes sp. hw-2018
+[species]	Eupodes variegatus
+[family]	Eylaidae
+[species]	Eylais sp.
+[species]	Eylais sp. Ey2
+[family]	Feltriidae
+[species]	Feltria minuta
+[species]	Feltria setigera
+[species]	Feltria longispina
+[species]	Feltria cornuta
+[species]	Feltria menzeli
+[species]	Feltria sp.
+[family]	Halacaridae
+[species]	Rhombognathus areolatus
+[species]	Agauopsis legionium
+[species]	Rhombognathus levigatoides
+[species]	Agauopsis bilophus
+[species]	Copidognathus sp. 2 ARP-2018
+[species]	Copidognathus sp. 5 ARP-2018
+[species]	Copidognathus sp. KE0812_6
+[species]	Copidognathus sp. MO0903_1C
+[species]	Scaptognathus sp. 1 ARP-2018
+[species]	Agauopsis sp. ZU0802_4A
+[species]	Rhombognathus sp. CHO0808_3
+[species]	Rhombognathus sp. OSH0903_5
+[species]	Copidognathus stevcici
+[species]	Copidognathus sp. 1 ARP-2018
+[species]	Simognathus sp. 2 ARP-2018
+[species]	Copidognathus sp. KE0812_3
+[species]	Simognathus sp. 1 ARP-2018
+[species]	Metarhombognathus armatus
+[species]	Isobactrus uniscutatus
+[species]	Copidognathus sp. KE0812_7
+[species]	Rhombognathus sp. 2 ARP-2019
+[species]	Scaptognathus sp. 2 ARP-2018
+[species]	Copidognathus sp. OSH0903_4Ac
+[family]	Hydrachnidae
+[species]	Hydrachna sp. 116BHL070916
+[species]	Hydrachna sp.
+[species]	Hydrachna conjecta
+[species]	Hydrachna globosa
+[family]	Hydrodromidae
+[species]	Hydrodroma sp. B WS-2020
+[species]	Hydrodroma sp.
+[species]	Hydrodroma pilosa
+[species]	Hydrodroma despiciens
+[species]	Hydrodroma sp. C WS-2020
+[species]	Hydrodroma sp. A WS-2020
+[species]	Hydrodroma torrenticola
+[family]	Hydrovolziidae
+[species]	Hydrovolzia placophora
+[species]	Hydrovolzia sp.
+[family]	Hydryphantidae
+[species]	Parathyas palustris
+[species]	Wandesia sp.
+[species]	Partnunia steinmanni
+[species]	Panisus torrenticolus
+[species]	Partnunia cf. steinmanni A LB-2019
+[species]	Panisus michaeli
+[species]	Protzia sp.
+[species]	Partnunia cf. steinmanni B LB-2019
+[species]	Panisellus thienemanni
+[species]	Hydryphantes sp. VZ20194
+[species]	Protzia eximia
+[species]	Zschokkea oblonga
+[species]	Protzia invalvaris
+[species]	Hydryphantes sp.
+[species]	Hydryphantes ruber
+[species]	Parathyas pachystoma
+[species]	Protzia distincta
+[species]	Partnunia angusta
+[species]	Wandesia cf. thori A LB-2019
+[species]	Wandesia cf. thori B LB-2019
+[species]	Hydryphantes waynensis
+[species]	Protzia squamosa
+[species]	Panisopsis curvifrons
+[species]	Wandesia cf. racovitzai A LB-2019
+[species]	Wandesia cf. racovitzai B LB-2019
+[family]	Hygrobatidae
+[species]	Hygrobates fluviatilis
+[species]	Hygrobates nigromaculatus
+[species]	Atractides nodipalpis
+[species]	Atractides panniculatus
+[species]	Hygrobates longipalpis
+[species]	Hygrobates cf. norvegicus A LB-2019
+[species]	Hygrobates hamatoides
+[species]	Atractides tener
+[species]	Atractides separatus
+[species]	Atractides cognatus
+[species]	Hygrobates hamatus
+[species]	Atractides cf. propatulus
+[species]	Hygrobates persicus
+[species]	Atractides gibberipalpis
+[species]	Atractides sp. A LB-2019
+[species]	Hygrobates grabowskii
+[species]	Atractides walteri
+[species]	Hygrobates ulii
+[species]	Atractides coriaceus
+[species]	Atractides vaginalis
+[species]	Atractides protendens
+[species]	Hygrobates foreli
+[species]	Atractides brendle
+[species]	Hygrobates norvegicus
+[species]	Hygrobates acutipalpis
+[species]	Atractides latisetus
+[species]	Atractides adnatus
+[species]	Hygrobates sp. 1 MD-2020
+[species]	Atractides sp. B LB-2019
+[species]	Atractides fonticolus
+[species]	Coaustraliobates cf. cortipes
+[species]	Hygrobates marezaensis
+[species]	Hygrobates turcicus
+[species]	Hygrobates cf. norvegicus B LB-2019
+[species]	Atractides fissus
+[species]	Hygrobates sp. 148BHL110116
+[species]	Atractides sp. MNCN:DNA:10560
+[species]	Hygrobates sp. AMUHyd037
+[species]	Hygrobates trigonicus
+[species]	Atractides circumcinctus
+[species]	Atractides sp. At3
+[family]	Johnstonianidae
+[species]	Johnstoniana errans
+[species]	Johnstoniana parva
+[species]	Diplothrombium sp.
+[family]	Krendowskiidae
+[species]	Krendowskia similis
+[species]	Krendowskia sp. AAV-2017
+[species]	Krendowskia sp. 149BHL110116
+[species]	Krendowskia sp. 1SMG81313
+[species]	Krendowskia sp. 1SMB81313_2
+[species]	Krendowskia sp. 130BHL080816
+[species]	Krendowskia sp. 132BHL080816
+[species]	Krendowskia sp. 1SMG50813
+[family]	Labidostommatidae
+[species]	Labidostomma luteum
+[species]	Labidostomma sp. AMUVe009
+[species]	Labidostomma sp. BMNH-1424140
+[family]	Lebertiidae
+[species]	Lebertia porosa
+[species]	Lebertia madericola
+[species]	Lebertia sefvei
+[species]	Lebertia schechteli
+[species]	Lebertia salebrosa
+[species]	Lebertia holsatica
+[species]	Lebertia maderigena
+[species]	Lebertia fimbriata
+[species]	Lebertia minutipalpis
+[species]	Lebertia sp.
+[species]	Lebertia maculosa
+[species]	Lebertia crenophila
+[species]	Lebertia cuneifera
+[species]	Lebertia sp. 1 JLR-2018
+[species]	Lebertia reticulata
+[species]	Lebertia inaequalis
+[species]	Lebertia sp0942A
+[species]	Lebertia elsteri
+[species]	Lebertia sparsicapillata
+[species]	Lebertia lativentris
+[species]	Lebertia sp. 2 JLR-2018
+[species]	Lebertia stigmatifera
+[species]	Lebertia sp. 1 AAV-2018
+[family]	Limnesiidae
+[species]	Limnesia sp. 1SMD73013
+[species]	Tyrrellia sp.
+[species]	Limnesia marshallae
+[species]	Limnesia undulatoides
+[species]	Limnesia sp0936BC
+[species]	Limnesia sp. 1SMY73013
+[species]	Limnesia sp. BOLDACA9272
+[species]	Limnesia sp.
+[species]	Limnesia sp. 3SMP73013
+[species]	Limnesia sp. 1SMG81313_2
+[species]	Limnesia sp. 1SMY81313
+[species]	Limnesia sp. 1SMV61212
+[species]	Limnesia sp. 121BHL042516
+[species]	Limnesia connata
+[species]	Limnesia undulata
+[species]	Limnesia sp. 1SMP73013
+[species]	Limnesia sp. 1SMT50813
+[species]	Limnesia sp. 1SMUC81313
+[species]	Limnesia sp. 1SMY71212
+[family]	Limnocharidae
+[species]	Limnochares americana
+[family]	Lordalychidae
+[species]	Hybalicus sp. AD1218
+[species]	Hybalicus sp. AD1285
+[family]	Microtrombidiidae
+[species]	Atractothrombium sylvaticum
+[species]	Campylothrombium barbarum
+[species]	Microtrombidium pusillum
+[species]	Valgoperuvia paradoxa
+[species]	Microtrombidium cooki
+[species]	Microtrombidium sp. SKPG005
+[species]	Dactylothrombium pulcherrimum
+[species]	Platytrombidium fasciatum
+[family]	Mideopsidae
+[species]	Mideopsis sp.
+[species]	Mideopsis roztoczensis
+[species]	Xystonotus willmanni
+[species]	Mideopsis sp0988A
+[species]	Mideopsis sp. 118BHL042516
+[family]	Omartacaridae
+[species]	Omartacarus sp. LDC1
+[family]	Oxidae
+[species]	Oxus sp.
+[species]	Oxus nodigerus
+[species]	Oxus sp. 20280C
+[species]	Oxus sp. 106BHL072216
+[family]	Paratydeidae
+[species]	Tanytydeus sp. AD1303
+[family]	Penthaleidae
+[species]	Penthaleus sp. 2
+[species]	Penthaleus sp.
+[species]	Penthaleus cf. major MD-2010
+[species]	Penthaleus sp. AMUEnv018
+[family]	Penthalodidae
+[species]	Stereotydeus mollis
+[species]	Stereotydeus shoupi
+[species]	Stereotydeus villosus
+[species]	Stereotydeus belli
+[family]	Phytoptidae
+[species]	Phytoptus avellanae
+[species]	Oziella liroi
+[species]	Trisetacus quadrisetus
+[species]	Oziella hirtae
+[species]	Nalepella tsugifoliae
+[species]	Retracrus johnstoni
+[species]	Oziella atherodes
+[species]	Sierraphytoptus alnivagrans
+[species]	Phytoptus monthalensis
+[species]	Trisetacus piceae
+[species]	Retracrus sp.
+[species]	Phytoptus chamaebatiae
+[species]	Phytoptus tetratrichus
+[species]	Oziella sibirica
+[species]	Setoptus pini
+[species]	Novophytoptus cf. rostratae
+[species]	Loboquintus subsquamatus
+[species]	Phytoptus alchemillae
+[species]	Fragariocoptes setiger
+[species]	Oziella maritima
+[species]	Nalepella brewerianae
+[species]	Setoptus sp.
+[species]	Trisetacus silvestris
+[species]	Trisetacus bioti
+[species]	Nalepella triceras
+[species]	Phytoptus abnormis
+[species]	Novophytoptus sp.
+[species]	Trisetacus sp. 2 PEC-2019
+[species]	Mackiella reclinata
+[species]	Sierraphytoptus ambulans
+[species]	Trisetacus grosmanni
+[species]	Oziella sp.
+[species]	Trisetacus sp.
+[species]	Nalepella sp.
+[species]	Phytoptus hedericola
+[species]	Boczekella reticulata
+[family]	Pionidae
+[species]	Piona dispersa
+[species]	Piona stjoerdalensis
+[species]	Piona longipalpis
+[species]	Piona imminuta
+[species]	Piona sp. 2 JLR-2018
+[species]	Piona sp.
+[species]	Piona alpicola
+[species]	Piona coccinea
+[species]	Piona exilis
+[species]	Piona pusilla
+[species]	Piona rotundoides
+[species]	Piona sp0934B
+[species]	Hydrochoreutes sp. 1BHL050817AVCOI
+[species]	Piona variabilis
+[species]	Forelia sp. BHL060517
+[species]	Piona sp. JCS01
+[species]	Hydrochoreutes sp.
+[species]	Tiphys sp.
+[species]	Piona sp. 1 JLR-2018
+[species]	Australotiphys barmutai
+[family]	Podapolipidae
+[species]	Locustacarus buchneri
+[family]	Pontarachnidae
+[species]	Litarachna communis
+[family]	Pyemotidae
+[species]	Pyemotes dryas
+[family]	Raphignathidae
+[species]	Raphignathus sp. AD1059
+[family]	Rhagidiidae
+[species]	Rhagidia sp.
+[species]	Evadorhagidia sp. JCS01
+[family]	Rhynchohydracaridae
+[species]	Rhynchohydracarus n. sp.
+[family]	Scutacaridae
+[species]	Scutacarus sp. JCS01
+[family]	Smarididae
+[species]	Hirstiosoma ampulligera
+[species]	Smaris sp.
+[family]	Sperchontidae
+[species]	Sperchonopsis verrucosa
+[species]	Sperchon longirostris
+[species]	Sperchon glandulosus
+[species]	Sperchonopsis sp. SPs
+[species]	Sperchon squamosus
+[species]	Sperchonopsis sp. JCS01
+[species]	Sperchon mutilus
+[species]	Sperchon sp. SP1
+[species]	Sperchon violaceus
+[species]	Sperchon thienemanni
+[species]	Sperchon clupeifer
+[species]	Sperchon plumifer
+[species]	Sperchonopsis phreaticus
+[family]	Stigmaeidae
+[species]	Eustigmaeus sp. AD1329
+[family]	Stygothrombiidae
+[species]	Stygothrombium sp.
+[family]	Syringophilidae
+[species]	Betasyringophiloidus seiuri
+[species]	Syringophilopsis dendroicae B GSS2010
+[species]	Syringophiloidus pseudonigritae
+[species]	Syringophilopsis passerina
+[species]	Torotrogla merulae
+[species]	Syringophilopsis sp. B GSS-2010
+[species]	Syringophilopsis elongatus
+[species]	Stibarokris phoeniconaias
+[species]	Betasyringophiloidus sp. 1 LB-2019
+[species]	Syringophilopsis sp.
+[species]	Betasyringophiloidus schoeniclus
+[species]	Syringophilopsis turdus
+[species]	Torotrogla rubeculi
+[species]	Syringophilopsis dendroicae A GSS2010
+[species]	Syringophilopsis tyrrani A GSS2010
+[species]	Torotrogla gaudi
+[species]	Syringophilopsis sp. A GSS2010
+[species]	Syringophilopsis sturni
+[species]	Syringophilopsis tyrrani B GSS2010
+[species]	Picobia dziabaszewskii
+[species]	Syringophilopsis sialiae
+[species]	Syringophilopsis empidonax
+[species]	Syringophilopsis sp. E GSS-2010
+[family]	Tarsonemidae
+[species]	Acarapis woodi
+[species]	Acarapis externus
+[species]	Acarapis dorsalis
+[species]	Polyphagotarsonemus latus
+[species]	Steneotarsonemus spinki
+[family]	Tenuipalpidae
+[species]	Brevipalpus obovatus
+[species]	Raoiella indica
+[species]	Brevipalpus sp. AD1016
+[species]	Dolichotetranychus sp. NS-2014
+[species]	Brevipalpus yothersi
+[species]	Brevipalpus phoenicis
+[species]	Raoiella sp. APGD-2008
+[species]	Brevipalpus californicus
+[species]	Dolichotetranychus sp. UAS-B 2724
+[species]	Brevipalpus chilensis
+[species]	Brevipalpus sp. n. ARCisi4
+[species]	Brevipalpus sp. RSDM-2013
+[species]	Brevipalpus sp. ESCisi13
+[species]	Brevipalpus sp. n. ARCisi5
+[species]	Dolichotetranychus sp. UAS 2537
+[species]	Raoiella macfarlanei
+[species]	Brevipalpus sp. Tetipac
+[species]	Dolichotetranychus sp. APGD-2008
+[species]	Cenopalpus pulcher
+[species]	Brevipalpus sp.
+[family]	Tetranychidae
+[species]	Tetranychus urticae
+[species]	Oligonychus perseae
+[species]	Stigmaeopsis miscanthi
+[species]	Tetranychus evansi
+[species]	Panonychus ulmi
+[species]	Tetranychus truncatus
+[species]	Amphitetranychus viennensis
+[species]	Bryobia praetiosa
+[species]	Stigmaeopsis takahashii
+[species]	Bryobia kissophila
+[species]	Tetranychus lombardinii
+[species]	Panonychus citri
+[species]	Tetranychus udaipurensis
+[species]	Tetranychus kanzawai
+[species]	Tetranychus cinnabarinus
+[species]	Stigmaeopsis longus
+[species]	Petrobia harti
+[species]	Oligonychus punicae
+[species]	Tetranychus turkestani
+[species]	Oligonychus mangiferus
+[species]	Tetranychus pacificus
+[species]	Bryobia sp. JCS01
+[species]	Bryobia rubrioculus
+[species]	Schizotetranychus andropogoni
+[species]	Bryobia sp.
+[species]	Stigmaeopsis celarius
+[species]	Tetranychus ludeni
+[species]	Tetranychus pueraricola
+[species]	Oligonychus castaneae
+[species]	Stigmaeopsis saharai
+[species]	Schizotetranychus krungthepensis
+[species]	Tetranychus malaysiensis
+[species]	Bryobia berlesei
+[species]	Panonychus mori
+[species]	Tetranychus puschelii
+[species]	Eotetranychus frosti
+[species]	Oligonychus clavatus
+[species]	Oligonychus afrasiaticus
+[species]	Bryobia sarothamni
+[species]	Oligonychus biharensis
+[species]	Eotetranychus tiliarium
+[species]	Oligonychus thelytokus
+[species]	Mononychellus tanajoa
+[species]	Tetranychus phaselus
+[species]	Stigmaeopsis sp. Oota
+[species]	Oligonychus gotohi
+[species]	Tetranychus piercei
+[species]	Stigmaeopsis sp. Kubokawa2
+[species]	Tetranychus okinawanus
+[species]	Tetranychus neocaledonicus
+[species]	Bryobia sp. IV ALA-2010
+[species]	Petrobia tunisiae
+[species]	Tetranychus parakanzawai
+[species]	Panonychus osmanthi
+[species]	Oligonychus aceris
+[species]	Oligonychus sp. JCVR-2015
+[species]	Bryobia sp. IX ALA-2010
+[species]	Bryobia sp. X ALA-2010
+[species]	Stigmaeopsis sp. Ookuwa
+[species]	Oligonychus camelliae
+[species]	Oligonychus amiensis
+[species]	Schizotetranychus bambusae
+[species]	Oligonychus tylus
+[species]	Eotetranychus carpinicolus
+[species]	Eotetranychus sp. AD1954
+[species]	Oligonychus sp. UAS-B 2205
+[species]	Eutetranychus banksi
+[species]	Oligonychus rubicundus
+[species]	Eotetranychus querci
+[species]	Oligonychus plegas
+[species]	Oligonychus hondoensis
+[species]	Eotetranychus linderae
+[species]	Stigmaeopsis sp. Kikuchi_1
+[species]	Eutetranychus orientalis
+[species]	Oligonychus coffeae
+[species]	Eotetranychus pruni
+[species]	Stigmaeopsis sp. Simonosek
+[species]	Tetranychus marianae
+[species]	Eotetranychus palatiensis
+[species]	Oligonychus orthius
+[species]	Bryobia sp. I ALA-2010
+[species]	Oligonychus perditus
+[species]	Oligonychus karamatus
+[species]	Eotetranychus sp. UAS-B 2369
+[species]	Tetranychus ezoensis
+[species]	Oligonychus ununguis
+[species]	Tetranychus misumaiensis
+[species]	Oligonychus indicus
+[species]	Oligonychus sp. OAI433
+[species]	Oligonychus modestus
+[species]	Oligonychus tsudomei
+[species]	Tetranychus sp. UAS(B)-2014-Trivandrum (papaya)
+[species]	Stigmaeopsis sp. Kikuchi_2
+[species]	Oligonychus sp. UAS-B 2206
+[species]	Tetranychus sp. DeepForest-Aristolochia
+[species]	Tetranychus sp. UAS(B)-2014-Kasargod
+[species]	Tetranychus urticae LS-VL
+[species]	Oligonychus ilicis
+[species]	Eutetranychus shii
+[species]	Oligonychus pustulosus
+[species]	Tetranychus fijiensis
+[species]	Tetranychus sp. Omsk-Fragaria
+[species]	Tetranychus sp. Krasnodar-Xanthium
+[family]	Teutoniidae
+[species]	Teutonia cometes
+[family]	Thermacaridae
+[species]	Thermacarus nevadensis
+[family]	Torrenticolidae
+[species]	Testudacarus vulgaris
+[species]	Torrenticola trimaculata
+[species]	Torrenticola tysoni
+[species]	Torrenticola tricolor
+[species]	Torrenticola multiforma
+[species]	Testudacarus dennetti
+[species]	Testudacarus smithi
+[species]	Debsacarus oribatoides
+[species]	Testudacarus minimus
+[species]	Testudacarus hyporhynchus
+[species]	Torrenticola nortoni
+[species]	Torrenticola sellersorum
+[species]	Torrenticola malarkeyorum
+[species]	Torrenticola ventura
+[species]	Torrenticola dunni
+[species]	Torrenticola shubini
+[species]	Torrenticola magnexa
+[species]	Torrenticola ellipsoidalis
+[species]	Torrenticola tahoei
+[species]	Torrenticola mjolniri
+[species]	Torrenticola sierrensis
+[species]	Torrenticola raptor
+[species]	Testudacarus harrisi
+[species]	Torrenticola nigroalba
+[species]	Torrenticola larvata
+[species]	Testudacarus hitchensi
+[species]	Testudacarus oblongatus
+[species]	Torrenticola karambita
+[species]	Torrenticola rockyensis
+[species]	Torrenticola manni
+[species]	Torrenticola walteri
+[species]	Torrenticola sharkeyi
+[species]	Torrenticola gorti
+[species]	Torrenticola lundbladi
+[species]	Monatractides sp. n. WN-2018
+[species]	Torrenticola projector
+[species]	Torrenticola flangipalpa
+[species]	Torrenticola unimaculata
+[species]	Torrenticola sp.
+[species]	Torrenticola delicatexa
+[species]	Torrenticola glomerabilis
+[species]	Torrenticola interiorensis
+[species]	Torrenticola copipalpa
+[species]	Torrenticola robisoni
+[species]	Torrenticola raptoroides
+[species]	Torrenticola irapalpa
+[species]	Testudacarus dawkinsi
+[species]	Torrenticola skvarlai
+[species]	Torrenticola solisorta
+[species]	Torrenticola pearsoni
+[species]	Testudacarus elongatus
+[species]	Torrenticola pollani
+[species]	Testudacarus americanus
+[species]	Torrenticola gnoma
+[species]	Testudacarus rollerae
+[species]	Torrenticola mulleni
+[species]	Torrenticola rala
+[species]	Torrenticola regalis
+[species]	Torrenticola pacificensis
+[species]	Torrenticola longitibia
+[species]	Torrenticola neoanomala
+[species]	Torrenticola caerulea
+[species]	Testudacarus kirkwoodae
+[species]	Torrenticola olliei
+[species]	Torrenticola bondi
+[species]	Torrenticola racupalpa
+[species]	Torrenticola ululata
+[species]	Torrenticola lukai
+[species]	Torrenticola biscutella
+[species]	Torrenticola erectirostra
+[species]	Torrenticola pendula
+[species]	Torrenticola elongata
+[species]	Torrenticola elusiva
+[species]	Torrenticola sp. To
+[species]	Torrenticola welbourni
+[species]	Torrenticola amplexa
+[species]	Torrenticola brevirostris
+[species]	Torrenticola hoosieri
+[family]	Trochometridiidae
+[species]	Trochometridium sp. AD1884
+[family]	Trombiculidae
+[species]	Leptotrombidium scutellare
+[species]	Leptotrombidium chiangraiensis
+[species]	Leptotrombidium deliense
+[species]	Leptotrombidium imphalum
+[species]	Walchia hayashii
+[species]	Neotrombicula microti
+[species]	Leptotrombidium pallidum
+[species]	Ascoschoengastia sp. TATW-1
+[species]	Leptotrombidium fuji
+[species]	Leptotrombidium akamushi
+[species]	Neoschoengastia gallinarum
+[species]	Hirsutiella zachvatkini
+[species]	Leptotrombidium fletcheri
+[species]	Leptotrombidium palpale
+[species]	Walchia hayashii TWHW-1
+[species]	Leptotrombidium intermedium
+[species]	Leptotrombidium sp. TLMW-1
+[species]	Morelacarus sp.
+[species]	Leptotrombidium sp.
+[family]	Trombidiidae
+[species]	Allothrombium fuliginosum
+[species]	Callidosoma cf.
+[species]	Trombidium holosericeum
+[species]	Trombidium sp. 1
+[species]	Trombidium sp. 2
+[species]	Trombidium sp.
+[species]	Allothrombium pulvinum
+[species]	Trombidium brevimanum
+[species]	Allothrombium sp. 1 MF-2019
+[species]	Allothrombium mitchelli
+[species]	Allothrombium ovatum
+[species]	Allothrombium sp. 2 MF-2019
+[family]	Tydeidae
+[species]	Lorryia sp. AMUEnv035
+[family]	Unionicolidae
+[species]	Unionicola sp. 2 AVK-2020
+[species]	Unionicola sp. 3 AVK-2020
+[species]	Neumania vietnamica
+[species]	Koenikea sp. 1SNA82812
+[species]	Unionicola sp. 1 JH-2021
+[species]	Neumania sp. 2 ZD-2020
+[species]	Unionicola sp. Hyd_378_2
+[species]	Unionicola crassipes
+[species]	Unionicola sp. 1 AVK-2020
+[species]	Unionicola serrata
+[species]	Unionicola foili
+[species]	Unionicola smithae
+[species]	Neumania sp. 1 ZD-2020
+[species]	Unionicola sp. 4 AVK-2020
+[species]	Unionicola hoesei
+[species]	Unionicola kavanaghi
+[species]	Unionicola formosa
+[species]	Unionicola sp. Hyd_376_1
+[species]	Unionicola sp. Hyd_621_19_1
+[species]	Unionicola sp. Hyd_543
+[species]	Unionicola sp. 1BHL110116dy
+[species]	Koenikea sp. 4BHL072216
+[species]	Unionicola sp. Hyd_621_19_3
+[species]	Unionicola tupara
+[species]	Unionicola fulleri
+[species]	Unionicola sp. Hyd_392_1
+[species]	Unionicola parkeri
+[species]	Unionicola sp. 5 AVK-2020
+[species]	Unionicola sp. Hyd_540_3
+[species]	Unionicola ischyropalpus
+[species]	Koenikea sp. 1SMB81313
+[species]	Neumania sp.
+[species]	Unionicola sp. Hyd_541_1
+[species]	Koenikea sp. 1SMW61212
+[species]	Unionicola sp.
+[species]	Unionicola arcuata
+[species]	Unionicola aculeata
+[species]	Unionicola vikitra
+[species]	Unionicola sp. Hyd_376_2
+[species]	Koenikea sp. 129BHL070916
+[species]	Unionicola dimocki
+[species]	Unionicola sp. Hyd_541_3
+[species]	Unionicola abnormipes
+[species]	Unionicola sp. Hyd_541_2
+[species]	Koenikea sp. 1SMW80912
+[species]	Neumania sp. 6BHL072216
+[species]	Unionicola sp. 4BHL101416dy
+[species]	Unionicola sp. Hyd_549_2
+[species]	Unionicola sp. Hyd_393_1
+[species]	Unionicola ypsilophora
+[species]	Unionicola ernstingi
+[species]	Unionicola sp. Hyd_549_1
+[species]	Unionicola minor
+[species]	Unionicola sp. Hyd_363_2
+[species]	Unionicola gailae
+[species]	Unionicola amandita
+[species]	Unionicola sp. Hyd_547_2
+[species]	Koenikea sp. 1SND82812
+[species]	Unionicola sp. Hyd_545
+[species]	Unionicola sp. Hyd_547_1
+[species]	Unionicola vamana
+[species]	Neumania sp. 11BHL070916
+[species]	Unionicola tumida
+[species]	Neumania verrucosa
+[species]	Unionicola sp. Hyd_363_1
