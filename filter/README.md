@@ -16,7 +16,7 @@ python setup_filter.py <fasta_file> <taxon_file> <BOLD_file>
 
 ## 分类文件获取方式
 
-taxon_file 获取方式（ncbi_id 为目标类群在NCBI的分类号/Taxonomy ID；例如，Collembola 为 30001，详见 [taxonkit官方说明](https://github.com/shenwei356/taxonkit) ）：
+taxon_file 获取方式（ncbi_id 为目标类群在NCBI的分类号/Taxonomy ID；例如，Collembola 为 30001，详见 [taxonkit](https://github.com/shenwei356/taxonkit)官方说明 ）：
 ```
 taxonkit list --show-rank --show-name --indent " " --ids <ncbi_id>
 ```
