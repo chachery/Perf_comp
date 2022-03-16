@@ -31,3 +31,9 @@ python treatBOLD.py <input_tsv> <output>
 ```
 python rm_failDecode.py <input_tsv>
 ```
+
+## config.py 配置文件
+
+config.py内可以设置和修改过滤相关的参数。
+
+1
