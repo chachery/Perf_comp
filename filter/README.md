@@ -1,2 +1,17 @@
 # filter
 Scripts for filtering on reference databases.
+
+输入以下命令即可对来自 NCBI Genbank 的目标类群（例如某个纲）的序列进行过滤
+```
+python setup_filter.py <fasta_file> <taxon_file>
+```
+
+输入以下命令即可对来自 NCBI Genbank 和 BOLD 的目标类群（例如某个纲）的序列进行过滤
+```
+python setup_filter.py <fasta_file> <taxon_file> <BOLD_file>
+```
+
+taxon_file 获取方式（ncbi_id 为目标类群在NCBI的分类号/Taxonomy ID；例如，Collembola 为 30001）：
+```
+taxonkit list --show-rank --show-name --indent " " --ids <ncbi_id>
+```
