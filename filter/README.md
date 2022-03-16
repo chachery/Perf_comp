@@ -2,6 +2,7 @@
 如果觉得（某个类群的）参考数据库过大影响比对/建树速度，可以用本过滤方法去除该类群各个物种中相似度较高的冗余序列。
 
 
+
 ## 运行命令
 
 输入以下命令即可对来自 NCBI Genbank 的目标类群（例如某个纲）的序列进行过滤
@@ -25,4 +26,4 @@ BOLD_file 为目标类群在 BOLD 上的分类信息文件，获取方法为：
 ```
 python treatBOLD.py <input_tsv> <output>
 ```
-其中，input_tsv 为从BOLD下载的目标类群的tsv格式的分类信息表格文件，output为输出的 BOLD_file 文件名
+其中，input_tsv 为从BOLD下载的目标类群的tsv格式的分类信息表格文件，output为输出的 BOLD_file 文件名。
