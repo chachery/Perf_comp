@@ -36,4 +36,8 @@ python rm_failDecode.py <input_tsv>
 
 config.py内可以设置和修改过滤相关的参数。
 
-1
+threshold_inter 代表过滤的最低相似度阈值，默认为0.97；
+
+REF_HS 代表过滤参考文件，该文件的设置初衷主要是方便筛选某个标记指定片段上的序列（如COI的658bp标准片段），该文件内需要放置多条目标类群在指定片段上的序列。
+如果设置了该值，过滤就会在设置的参考文件基础上，依据相似度（SIMILARITY_THRESHOLD_HS）和覆盖率（COVERAGE_THRESHOLD_HS）进行。
+如果 IS_TRIM 设置了 True，那么过滤后的序列会依据参考文件（REF_HS）内的序列进行剪切。
