@@ -50,13 +50,16 @@ There are some useful parameters for the filtration:
 
 config.py内可以设置和修改过滤相关的参数：
 
+
 "Threshold_inter" is the similarity threshold for sequences filtration (d: 0.97).
 
 threshold_inter 代表过滤的最低相似度阈值，默认为0.97；
 
+
 "REF_HS" is the reference file for sequences filtration.
 
 REF_HS 代表过滤参考文件，该参数的设置初衷主要是为了方便筛选条形码标记指定片段上的序列（如COI的658bp标准片段），该文件内需要放置多条目标类群在指定片段上的序列。如果设置了该值，过滤就会在设置的参考文件基础上，依据相似度（SIMILARITY_THRESHOLD_HS）和覆盖率（COVERAGE_THRESHOLD_HS）进行。
+
 
 If "IS_TRIM" is on, the sequences will be trimed refering to the sequences in "REF_HS".
 
