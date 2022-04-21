@@ -1,8 +1,8 @@
 # Perf_comp
 Performance comparison of taxonomy assignment tools.
 
-filter子文件夹：数据库的过滤
+filter/: The filtration method for reference database.
 
-Taxonomy子文件夹：分子分类鉴定一键执行脚本
+Taxonomy/: The script for molecular taxonomy assignment.
 
-test_accuracy子文件夹：分类鉴定软件准确性比较的相关代码
+test_accuracy/: The scripts about accuracy comparison on taxonomy assignment tools.
