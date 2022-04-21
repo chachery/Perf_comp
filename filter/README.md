@@ -1,4 +1,5 @@
 # filter
+The filtration method aims to accomplish redundancy removal on highly similar sequences.
 如果觉得（某个类群的）参考数据库过大影响比对/建树速度，可以用本过滤方法去除该类群各个物种中相似度较高的冗余序列。
 
 
