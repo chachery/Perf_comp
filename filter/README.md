@@ -54,6 +54,8 @@ There are some useful parameters for the filtration:
 
 If "IS_TRIM" is on, the sequences will be trimed refering to the sequences in "REF_HS".
 
+ 
+
 config.py内可以设置和修改过滤相关的参数：
 
 threshold_inter 代表过滤的最低相似度阈值，默认为0.97；
